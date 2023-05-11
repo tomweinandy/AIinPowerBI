@@ -164,7 +164,7 @@
 "language": "English"
 },
 {
-"title": "Programming Rust, 2nd Edition",
+"title": "Programming Rust",
 "author": "Jim Blandy, Jason Orendorff, Leonora F. S. Tindall",
 "publisher": "O'Reilly Media, Inc.",
 "description": "Systems programming provides the foundation for the world's computation. Writing performance-sensitive code requires a programming language that puts programmers in control of how memory, processor time, and other system resources are...",
@@ -181,7 +181,7 @@
 "language": "English"
 },
 {
-"title": "A Guide to the Project Management Body of Knowledge ( PMBOK® Guide )",
+"title": "A Guide to the Project Management Body of Knowledge (PMBOK® Guide)",
 "edition": "6th",
 "author": "Project Management Institute",
 "publisher": "Project Management Institute",
@@ -276,7 +276,7 @@
 "language": "English"
 },
 {
-"title": "The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition, 2nd Edition",
+"title": "The Pragmatic Programmer: your journey to mastery",
 "edition": "2nd",
 "author": "David Thomas, Andrew Hunt",
 "publisher": "Addison-Wesley Professional",
@@ -285,7 +285,7 @@
 "language": "English"
 },
 {
-"title": "JavaScript: The Definitive Guide, 7th Edition",
+"title": "JavaScript: The Definitive Guide",
 "edition": "7th",
 "author": "David Flanagan",
 "publisher": "O'Reilly Media, Inc.",
@@ -349,7 +349,7 @@
 "format": "video"
 },
 {
-"title": "AWS Certified Solutions Architect Study Guide with 900 Practice Test Questions, 4th Edition",
+"title": "AWS Certified Solutions Architect Study Guide with 900 Practice Test Questio",
 "edition": "4th",
 "author": "David Clinton, Ben Piper",
 "publisher": "Sybex",
