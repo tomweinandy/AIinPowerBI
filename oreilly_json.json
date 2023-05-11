@@ -35,7 +35,7 @@
 },
 {
 "title": "Fundamentals of Data Engineering",
-"author": ["Joe Reis", "Matt Housley"],
+"author": "Joe Reis, Matt Housley",
 "publisher": "O'Reilly Media, Inc.",
 "description": "Data engineering has grown rapidly in the past decade, leaving many software engineers, data scientists, and analysts looking for a comprehensive view of this practice. With this practical book, you'll learn ...",
 "format": "book"
@@ -43,7 +43,7 @@
 {
 "title": "Natural Language Processing with Transformers",
 "edition": "Revised Edition",
-"author": ["Lewis Tunstall", "Leandro von Werra", "Thomas Wolf"],
+"author": "Lewis Tunstall, Leandro von Werra, Thomas Wolf",
 "publisher": "O'Reilly Media, Inc.",
 "description": "Since their introduction in 2017, transformers have quickly become the dominant architecture for achieving state-of-the-art results on a variety of natural language processing tasks. If you're a data scientist or coder, ...",
 "format": "book",
@@ -60,7 +60,7 @@
 },
 {
 "title": "Fundamentals of Software Architecture",
-"author": ["Mark Richards", "Neal Ford"],
+"author": "Mark Richards, Neal Ford",
 "publisher": "O'Reilly Media, Inc.",
 "description": "Salary surveys worldwide regularly place software architect in the top 10 best jobs, yet no real guide exists to help developers become architects. Until now. This book provides the first comprehensive...",
 "format": "book"
@@ -92,7 +92,7 @@
 {
 "title": "(ISC)2 CISSP Certified Information Systems Security Professional Official Study Guide",
 "edition": "9th",
-"author": ["Mike Chapple", "James Michael Stewart", "Darril Gibson"],
+"author": "Mike Chapple, James Michael Stewart, Darril Gibson",
 "publisher": "Sybex",
 "description": "CISSP Study Guide - fully updated for the 2021 CISSP Body of Knowledge",
 "format": "book",
@@ -110,7 +110,7 @@
 {
 "title": "Head First Design Patterns",
 "edition": "2nd",
-"author": ["Eric Freeman", "Elisabeth Robson"],
+"author": "Eric Freeman, Elisabeth Robson",
 "publisher": "O'Reilly Media, Inc.",
 "description": "This book teaches design patterns that have been created and refined by software developers over the years to solve common problems in software design. The book uses a visually rich format to help readers understand the patterns and how they can be used.",
 "format": "book",
@@ -134,7 +134,7 @@
 {
 "title": "Head First Java",
 "edition": "3rd",
-"author": ["Kathy Sierra", "Bert Bates", "Trisha Gee"],
+"author": "Kathy Sierra, Bert Bates, Trisha Gee",
 "publisher": "O'Reilly Media, Inc.",
 "description": "Head First Java is a complete learning experience in Java and object-oriented programming. With this book, you'll learn the Java language with a unique approach that goes beyond syntax and how-to manuals and helps you understand how to be a great programmer. You'll learn the fundamental concepts and techniques of object-oriented programming, and then build on those skills to develop workable software that solves real business problems.",
 "format": "book",
@@ -150,7 +150,7 @@
 },
 {
 "title": "OCP Oracle Certified Professional Java SE 17 Developer Study Guide",
-"author": ["Scott Selikoff", "Jeanne Boyarsky"],
+"author": "Scott Selikoff, Jeanne Boyarsky",
 "publisher": "Sybex",
 "description": "An effective and practical study aid to the new OCP Java SE 17 Developer certification exam In the OCP Oracle Certified Professional Java SE 17 Developer Study Guide: Exam 1Z0-829, you'll ...",
 "format": "book"
@@ -165,7 +165,7 @@
 },
 {
 "title": "Programming Rust, 2nd Edition",
-"author": ["Jim Blandy", "Jason Orendorff", "Leonora F. S. Tindall"],
+"author": "Jim Blandy, Jason Orendorff, Leonora F. S. Tindall",
 "publisher": "O'Reilly Media, Inc.",
 "description": "Systems programming provides the foundation for the world's computation. Writing performance-sensitive code requires a programming language that puts programmers in control of how memory, processor time, and other system resources are...",
 "format": "book",
@@ -192,7 +192,7 @@
 {
 "title": "Kubernetes: Up and Running",
 "edition": 3,
-"author": ["Brendan Burns", "Joe Beda", "Kelsey Hightower", "Lachlan Evenson"],
+"author": "Brendan Burns, Joe Beda, Kelsey Hightower, Lachlan Evenson",
 "publisher": "O'Reilly Media, Inc.",
 "description": "This third edition comes with a dedicated playlist of interactive Katacoda labs mapped to each section of the book. As you read through each chapter, you can practice the concepts covered ...",
 "format": "book",
@@ -227,7 +227,7 @@
 {
 "title": "Kafka: The Definitive Guide",
 "edition": "2nd",
-"author": ["Gwen Shapira", "Todd Palino", "Rajini Sivaram", "Krit Petty"],
+"author": "Gwen Shapira, Todd Palino, Rajini Sivaram, Krit Petty",
 "publisher": "O'Reilly Media, Inc.",
 "description": "Every enterprise application creates data, whether it consists of log messages, metrics, user activity, or outgoing messages. Moving all this data is just as important as the data itself. With this comprehensive guide, you’ll learn how to build data pipelines and streaming applications using Kafka.",
 "format": "book",
@@ -252,7 +252,7 @@
 {
 "title": "CompTIA Security+ All-in-One Exam Guide (Exam SY0-601))",
 "edition": "6th",
-"author": ["Wm. Arthur Conklin", "Greg White", "Dwayne Williams", "Roger L. Davis", "Chuck Cothren"],
+"author": "Wm. Arthur Conklin, Greg White, Dwayne Williams, Roger L. Davis, Chuck Cothren",
 "publisher": "McGraw-Hill",
 "description": "This fully updated study guide delivers 100% coverage of every topic on the CompTIA Security+ exam. Designed to help you pass the exam with ease, this authoritative resource also serves as an essential on-the-job reference.",
 "format": "book",
@@ -278,7 +278,7 @@
 {
 "title": "The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition, 2nd Edition",
 "edition": "2nd",
-"author": ["David Thomas", "Andrew Hunt"],
+"author": "David Thomas, Andrew Hunt",
 "publisher": "Addison-Wesley Professional",
 "description": "'One of the most significant books in my life.' —Obie Fernandez, Author, The Rails Way 'Twenty years ago, the first edition of The Pragmatic Programmer completely changed the trajectory of my ...",
 "format": "book",
@@ -351,7 +351,7 @@
 {
 "title": "AWS Certified Solutions Architect Study Guide with 900 Practice Test Questions, 4th Edition",
 "edition": "4th",
-"author": ["David Clinton", "Ben Piper"],
+"author": "David Clinton, Ben Piper",
 "publisher": "Sybex",
 "description": "Master Amazon Web Services solution delivery and efficiently prepare for the AWS Certified SAA-C03 Exam with this all-in-one study guide The AWS Certified Solutions Architect Study Guide: Associate (SAA-C03) Exam, 4th ...",
 "format": "book",
@@ -360,7 +360,7 @@
 {
 "title": "The Rust Programming Language",
 "edition": "2nd Edition",
-"author": ["Steve Klabnik", "Carol Nichols"],
+"author": "Steve Klabnik, Carol Nichols",
 "publisher": "No Starch Press",
 "description": "The Rust Programming Language, 2nd Edition is the official guide to Rust 2021: an open source systems programming language that will help you write faster, more reliable software. Rust provides control ...",
 "format": "book",
@@ -369,7 +369,7 @@
 {
 "title": "Docker: Up & Running",
 "edition": "3rd Edition",
-"author": ["Sean P. Kane", "Karl Matthias"],
+"author": "Sean P. Kane, Karl Matthias",
 "publisher": "O'Reilly Media, Inc.",
 "description": "Docker and Linux containers have fundamentally changed the way that organizations develop, deliver, and run software at scale. But understanding why these tools are important and how they can be successfully ...",
 "format": "book",
@@ -377,7 +377,7 @@
 },
 {
 "title": "Mastering API Architecture",
-"author": ["James Gough", "Daniel Bryant", "Matthew Auburn"],
+"author": "James Gough, Daniel Bryant, Matthew Auburn",
 "publisher": "O'Reilly Media, Inc.",
 "description": "Most organizations with a web presence build and operate APIs; the doorway for customers to interact with the company's services. Designing, building, and managing these critical programs affect everyone in the ...",
 "format": "book",
@@ -385,7 +385,7 @@
 },
 {
 "title": "CCNP and CCIE Enterprise Core ENCOR 350-401 Official Cert Guide",
-"author": ["Brad Edgeworth", "Ramiro Garza Rios", "David Hucaby", "Jason Gooley"],
+"author": "Brad Edgeworth, Ramiro Garza Rios, David Hucaby, Jason Gooley",
 "publisher": "Pearson",
 "description": "Trust the best-selling Official Cert Guide series from Cisco Press to help you learn, prepare, and practice for exam success. They are built with the objective of providing assessment, review, and ...",
 "format": "book",
@@ -393,7 +393,7 @@
 },
 {
 "title": "Software Engineering at Google",
-"author": ["Titus Winters", "Tom Manshreck", "Hyrum Wright"],
+"author": "Titus Winters, Tom Manshreck, Hyrum Wright",
 "publisher": "O'Reilly Media, Inc.",
 "description": "Today, software engineers need to know not only how to program effectively but also how to develop proper engineering practices to make their codebase sustainable and healthy. This book emphasizes this ...",
 "format": "book",
