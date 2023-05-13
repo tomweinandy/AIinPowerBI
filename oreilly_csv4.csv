@@ -1,0 +1,56 @@
+Sample O'Reilly books and videos,,
+,,
+Note about the data: The prices are randomly generated and do not correspond to actual prices on Amazon or otherwise,,
+,,
+,,
+Title,Authors,Amazon Price
+"(ISC)2 CISSP Certified Information Systems Security Professional Official Study Guide, 9th Edition","M. Chapple, J. M. Stewart, D. Gibson",book  32.72
+A Guide to the Project Management Body of Knowledge ( PMBOK® Guide )—Sixth Edition,Project Management Institute,book  46.86
+A Guide to the Project Management Body of Knowledge (PMBOK® Guide) – Seventh Edition and The Standard for Project Management,Project Management Institute,book  31.09
+Angular - The Complete Guide [2023 Edition],M. Schwarzmüller,video  0
+AWS Certified Cloud Practitioner Exam Guide,R. Daswani,book  14.9
+"AWS Certified Solutions Architect Study Guide with 900 Practice Test Questio, 4th Edition","D. Clinton, B. Piper",book  39.41
+"Building Microservices, 2nd Edition",S. Newman,book  39.06
+CCNA 200-301 Official Cert Guide Library,W. Odom,book  21.23
+CCNP and CCIE Enterprise Core ENCOR 350-401 Official Cert Guide,"B. Edgeworth, R.G. Rios, D. Hucaby, J. Gooley",book  12.56
+"Clean Code Fundamentals, Expanded Edition",Robert C. Martin,video  0
+Clean Code: A Handbook of Agile Software Craftsmanship,Robert C. Martin,book  26.92
+"CompTIA Security+ All-in-One Exam Guide, Sixth Edition (Exam SY0-601))","Wm. Arthur Conklin, Greg White, Dwayne Williams, Roger L. Davis, Chuck Cothren",book  21.71
+CompTIA Security+ SY0-601,Sari Greene,video  0
+"Deep Learning with Python, Second Edition",Francois Chollet,book  29.81
+Designing Data-Intensive Applications,Martin Kleppmann,book  39
+Designing Machine Learning Systems,Chip Huyen,book  15.16
+"Docker: Up & Running, 3rd Edition","Sean P. Kane, Karl Matthias",book  19.24
+"Effective Java, 3rd Edition",Joshua Bloch,book  35.65
+"Fluent Python, 2nd Edition",Luciano Ramalho,book  21.54
+Fundamentals of Data Engineering,"Joe Reis, Matt Housley",book  16.17
+Fundamentals of Software Architecture,"Mark Richards, Neal Ford",book  16.96
+"Generative Deep Learning, 2nd Edition",David Foster,book  33.91
+"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition",Aurélien Géron,book  45.82
+"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition",Aurélien Géron,book  24.46
+"Head First Design Patterns, 2nd Edition","Eric Freeman, Elisabeth Robson",book  12.99
+"Head First Java, 3rd Edition","Kathy Sierra, Bert Bates, Trisha Gee",book  15.17
+"Introducing Python, 2nd Edition",Bill Lubanovic,book  36.11
+"JavaScript: The Definitive Guide, 7th Edition",David Flanagan,book  48.95
+"Kafka: The Definitive Guide, 2nd Edition","Gwen Shapira, Todd Palino, Rajini Sivaram, Krit Petty",book  25.2
+Kubernetes in Action,Marko Luksa,book  30.36
+"Kubernetes: Up and Running, 3rd Edition","Brendan Burns, Joe Beda, Kelsey Hightower, Lachlan Evenson",book  21.27
+Learning Go,Jon Bodner,book  35.34
+"Learning SQL, 3rd Edition",Alan Beaulieu,book  15.98
+Mastering API Architecture,"James Gough, Daniel Bryant, Matthew Auburn",book  24.2
+Microservices Patterns,Chris Richardson,book  33.44
+"Natural Language Processing with Transformers, Revised Edition","Lewis Tunstall, Leandro von Werra, Thomas Wolf",book  42.94
+OCP Oracle Certified Professional Java SE 17 Developer Study Guide,"Scott Selikoff, Jeanne Boyarsky",book  49.37
+"Programming Rust, 2nd Edition","Jim Blandy, Jason Orendorff, Leonora F. S. Tindall",book  28.59
+"Python Crash Course, 3rd Edition",Eric Matthes,book  25.32
+"Python for Data Analysis, 3rd Edition",Wes McKinney,book  37.4
+Python Fundamentals,Paul J. Deitel,video  0
+Quick Start Guide to Large Language Models: Strategies and Best Practices for using ChatGPT and Other LLMs,Sinan Ozdemir,book  24.77
+"React - The Complete Guide (Includes Hooks, React Router, and Redux) - Second Edition",Academind by Maximilian Schwarzmüller,video  0
+Red Hat Certified System Administrator (RHCSA) RHEL 9,Sander van Vugt,video  0
+Software Engineering at Google,"Titus Winters, Tom Manshreck, Hyrum Wright",book  20
+"Terraform: Up and Running, 3rd Edition",Yevgeniy Brikman,book  28.81
+"The Pragmatic Programmer: your journey to mastery, 2nd Edition","David Thomas, Andrew Hunt",book  18.14
+"The Rust Programming Language, 2nd Edition","Steve Klabnik, Carol Nichols",book  30.08
+The Staff Engineer's Path,Tanya Reilly,book  9.59
+What Are ChatGPT and Its Friends?,Mike Loukides,book  42.71
