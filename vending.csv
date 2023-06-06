@@ -27,13 +27,13 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 25,1/4/22,1/1/22,0,Factory,Jacks Links Bar Beef Strip,137,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
 26,1/4/22,1/1/22,0,Office,Wonderful Pistachios - Variety,132,2,1,2,0,1,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0
 27,1/4/22,1/1/22,0,Mall 2,Vitamin Water - XXX Acai BB Pomegranate,147,2.75,1,2.75,1,0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0
-28,1/4/22,1/1/22,0,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
+28,1/4/22,1/1/22,0,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
 29,1/4/22,1/1/22,0,Factory,KitKat - Crisp Wafers,134,2,1,2,0,1,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0
-30,1/4/22,1/1/22,0,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
+30,1/4/22,1/1/22,0,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
 31,1/4/22,1/1/22,0,Factory,Spindrift - Sparkling Water  Lime,140,1,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0
 32,1/4/22,1/1/22,0,Factory,Spindrift - Sparkling Water  Lime,140,1,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0
 33,1/4/22,1/1/22,0,Factory,Pure Organic Fruit Bar - Strawberry Banana,138,1,1,1,0,1,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0
-34,1/4/22,1/1/22,0,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
+34,1/4/22,1/1/22,0,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
 35,1/4/22,1/1/22,0,Factory,Oreo Mini,123,1.5,1,1.5,0,1,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0
 36,1/4/22,1/1/22,0,Factory,Nutter Butter Bites,124,1.5,1,1.5,0,1,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0
 37,1/5/22,1/1/22,0,Mall 1,Monster Energy Original,146,3,1,3,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0
@@ -361,9 +361,9 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 359,1/25/22,1/22/22,3,Factory,Coca Cola - Zero Sugar,142,1,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0
 360,1/25/22,1/22/22,3,Factory,Coca Cola - Zero Sugar,142,1,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0
 361,1/25/22,1/22/22,3,Factory,Sunkist Soda - Orange,140,1,1,1,1,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0
-362,1/25/22,1/22/22,3,Factory,Cheetos - Fleming Hot Crunchy,110,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0
+362,1/25/22,1/22/22,3,Factory,Cheetos - Flaming Hot Crunchy,110,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0
 363,1/25/22,1/22/22,3,Factory,Monster Energy Original,144,3,1,3,1,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0
-364,1/26/22,1/22/22,3,Factory,Cheetos - Fleming Hot Crunchy,110,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
+364,1/26/22,1/22/22,3,Factory,Cheetos - Flaming Hot Crunchy,110,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
 365,1/26/22,1/22/22,3,Factory,Monster Energy Original,144,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0
 366,1/26/22,1/22/22,3,Factory,Funyuns - Flaming Hot,114,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
 367,1/26/22,1/22/22,3,Factory,Skinny Pop Popcorn,111,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0
@@ -390,7 +390,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 388,1/26/22,1/22/22,3,Factory,Coca Cola - Zero Sugar,141,1,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
 389,1/26/22,1/22/22,3,Factory,Sunkist Soda - Orange,140,1,1,1,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0
 390,1/26/22,1/22/22,3,Factory,Monster Energy Original,144,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0
-391,1/26/22,1/22/22,3,Factory,Cheetos - Fleming Hot Crunchy,110,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
+391,1/26/22,1/22/22,3,Factory,Cheetos - Flaming Hot Crunchy,110,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
 392,1/26/22,1/22/22,3,Factory,Coca Cola - Zero Sugar,142,1,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
 393,1/27/22,1/22/22,3,Factory,Funyuns - Flaming Hot,114,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
 394,1/27/22,1/22/22,3,Factory,Munchies Snack mix Flaming Hot,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0
@@ -405,7 +405,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 403,1/27/22,1/22/22,3,Mall 1,Lays Baked - Original,112,1.5,1,1.5,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0
 404,1/27/22,1/22/22,3,Factory,Monster Energy Original,146,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
 405,1/27/22,1/22/22,3,Factory,Sunkist Soda - Orange,140,1,1,1,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
-406,1/27/22,1/22/22,3,Factory,Cheetos - Fleming Hot Crunchy,110,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
+406,1/27/22,1/22/22,3,Factory,Cheetos - Flaming Hot Crunchy,110,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
 407,1/27/22,1/22/22,3,Factory,Oreo Single Server 6 ct,138,2,1,2,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0
 408,1/27/22,1/22/22,3,Factory,Coca Cola - Zero Sugar,142,1,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
 409,1/27/22,1/22/22,3,Factory,Munchies Snack mix Flaming Hot,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
@@ -439,7 +439,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 437,1/28/22,1/22/22,3,Factory,Coca Cola - Zero Sugar,142,1,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
 438,1/28/22,1/22/22,3,Mall 2,Good Health Veggie Stix - Sea Salt,111,1.5,1,1.5,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1
 439,1/28/22,1/22/22,3,Factory,Monster Energy Original,144,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1
-440,1/28/22,1/22/22,3,Factory,Cheetos - Fleming Hot Crunchy,110,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
+440,1/28/22,1/22/22,3,Factory,Cheetos - Flaming Hot Crunchy,110,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 441,1/28/22,1/22/22,3,Mall 1,Poland Springs Water,142,1.5,2,3,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1
 442,1/28/22,1/22/22,3,Mall 2,KitKat - Crisp Wafers,130,2,1,2,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1
 443,1/28/22,1/22/22,3,Factory,Sunkist Soda - Orange,140,1,1,1,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1
@@ -449,7 +449,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 447,1/28/22,1/22/22,3,Factory,Coca Cola - Zero Sugar,141,1,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
 448,1/28/22,1/22/22,3,Factory,Monster Energy Original,144,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1
 449,1/29/22,1/29/22,4,Factory,Monster Energy Original,144,3,1,3,1,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
-450,1/29/22,1/29/22,4,Factory,Cheetos - Fleming Hot Crunchy,110,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
+450,1/29/22,1/29/22,4,Factory,Cheetos - Flaming Hot Crunchy,110,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
 451,1/29/22,1/29/22,4,Factory,Ritz Bits Cheese,122,1.25,1,1.25,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
 452,1/29/22,1/29/22,4,Factory,Ritz Bits Cheese,122,1.25,1,1.25,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
 453,1/29/22,1/29/22,4,Factory,Snapple Diet Tea - Lemon,143,2.5,1,2.5,1,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0
@@ -461,7 +461,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 459,1/30/22,1/29/22,4,Mall 1,V8 Vegetable Juice - Original,141,1.5,1,1.5,1,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0
 460,1/30/22,1/29/22,4,Mall 1,Poland Springs Water,142,1.5,1,1.5,1,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0
 461,1/31/22,1/29/22,4,Mall 2,Poland Springs Water,144,1.5,3,4.5,1,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0,0
-462,1/31/22,1/29/22,4,Factory,Cheetos - Fleming Hot Crunchy,110,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0
+462,1/31/22,1/29/22,4,Factory,Cheetos - Flaming Hot Crunchy,110,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0
 463,1/31/22,1/29/22,4,Factory,Snapple Diet Tea - Peach Tea,145,2.5,1,2.5,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0
 464,1/31/22,1/29/22,4,Factory,Snapple Diet Tea - Peach Tea,145,2.5,1,2.5,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0
 465,1/31/22,1/29/22,4,Factory,Jack Links Beef Steak Original,133,2,1,2,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0
@@ -681,7 +681,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 679,2/10/22,2/5/22,5,Factory,Monster Energy Original,144,3,1,3,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0
 680,2/10/22,2/5/22,5,Factory,Skinny Pop Popcorn,111,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0
 681,2/11/22,2/5/22,5,Factory,Monster Energy Original,144,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1
-682,2/11/22,2/5/22,5,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
+682,2/11/22,2/5/22,5,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 683,2/11/22,2/5/22,5,Factory,Monster Energy Original,144,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1
 684,2/11/22,2/5/22,5,Office,Wonderful Pistachios - Variety,138,2,1,2,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1
 685,2/11/22,2/5/22,5,Office,Miss Vickie's Potato Chip - Lime & Cracked Pe,110,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1
@@ -704,7 +704,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 702,2/11/22,2/5/22,5,Factory,Sunkist Soda - Orange,140,1,1,1,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1
 703,2/11/22,2/5/22,5,Factory,Red Bull - Original,148,3,1,3,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1
 704,2/11/22,2/5/22,5,Factory,Monster Energy Original,146,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1
-705,2/11/22,2/5/22,5,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
+705,2/11/22,2/5/22,5,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 706,2/11/22,2/5/22,5,Factory,Mini Chips Ahoy,121,1.5,1,1.5,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1
 707,2/11/22,2/5/22,5,Factory,Red Bull - Original,148,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1
 708,2/11/22,2/5/22,5,Factory,Oreo Single Server 6 ct,138,2,1,2,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1
@@ -769,7 +769,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 767,2/15/22,2/12/22,6,Factory,Coca Cola - Zero Sugar,142,1,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0
 768,2/15/22,2/12/22,6,Mall 2,Poland Springs Water,144,1.5,2,3,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0
 769,2/15/22,2/12/22,6,Factory,Monster Energy Original,146,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0
-770,2/15/22,2/12/22,6,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0
+770,2/15/22,2/12/22,6,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0
 771,2/15/22,2/12/22,6,Factory,Red Bull - Original,148,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0
 772,2/15/22,2/12/22,6,Factory,KitKat - Crisp Wafers,134,2,1,2,0,1,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0
 773,2/15/22,2/12/22,6,Factory,Good Health Veggie Stix - Sea Salt,112,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0
@@ -789,7 +789,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 787,2/16/22,2/12/22,6,Factory,Coca Cola - Zero Sugar,142,1,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
 788,2/16/22,2/12/22,6,Factory,Coca Cola - Zero Sugar,142,1,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
 789,2/16/22,2/12/22,6,Factory,Monster Energy Original,146,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0
-790,2/16/22,2/12/22,6,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
+790,2/16/22,2/12/22,6,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
 791,2/16/22,2/12/22,6,Factory,Takis FUGEO mini,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
 792,2/16/22,2/12/22,6,Factory,Coca Cola - Zero Sugar,142,1,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
 793,2/17/22,2/12/22,6,Factory,Popchips Potato - Barbeque,114,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
@@ -839,7 +839,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 837,2/18/22,2/12/22,6,Factory,Red Bull - Original,148,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1
 838,2/18/22,2/12/22,6,Factory,Monster Energy Original,146,3,1,3,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1
 839,2/19/22,2/19/22,7,Factory,Mini Chips Ahoy,121,1.5,1,1.5,0,1,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0
-840,2/19/22,2/19/22,7,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
+840,2/19/22,2/19/22,7,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
 841,2/19/22,2/19/22,7,Factory,Oreo Single Server 6 ct,138,2,1,2,0,1,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0
 842,2/19/22,2/19/22,7,Mall 1,Red Bull - Original,148,3.5,1,3.5,1,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0
 843,2/19/22,2/19/22,7,Mall 2,Zevia Zero Calorie Energy - Mango Ginger,148,2.5,1,2.5,1,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0
@@ -896,8 +896,8 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 894,2/22/22,2/19/22,7,Office,Miss Vickie's Potato Chip - Lime & Cracked Pe,110,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
 895,2/22/22,2/19/22,7,Mall 1,SunChips Multigrain - Harvest Cheddar,125,1.5,1,1.5,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0
 896,2/22/22,2/19/22,7,Factory,Red Bull - Original,148,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0
-897,2/22/22,2/19/22,7,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
-898,2/22/22,2/19/22,7,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
+897,2/22/22,2/19/22,7,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
+898,2/22/22,2/19/22,7,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
 899,2/22/22,2/19/22,7,Factory,Nutter Butter Bites,124,1,1,1,0,1,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0
 900,2/23/22,2/19/22,7,Office,Keto Krisp - Almond Butter,135,2,1,2,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0
 901,2/23/22,2/19/22,7,Office,Keto Krisp - Almond Butter,135,2,1,2,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0
@@ -1086,7 +1086,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 1084,3/5/22,3/5/22,9,Factory,Sunkist Soda - Orange,140,1,1,1,1,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0
 1085,3/5/22,3/5/22,9,Factory,Monster Energy Original,146,3,1,3,1,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
 1086,3/5/22,3/5/22,9,Factory,Good Health Veggie Stix - Zesty Ranch,110,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0
-1087,3/5/22,3/5/22,9,Factory,Cheetos - Fleming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
+1087,3/5/22,3/5/22,9,Factory,Cheetos - Flaming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
 1088,3/5/22,3/5/22,9,Factory,Nutter Butter Bites,124,1,1,1,0,1,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0,0
 1089,3/5/22,3/5/22,9,Factory,Monster Energy Original,146,3,1,3,1,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
 1090,3/5/22,3/5/22,9,Mall 2,KitKat - Crisp Wafers,130,2,1,2,0,1,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0
@@ -1111,11 +1111,11 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 1109,3/7/22,3/5/22,9,Mall 2,Vitamin Water - Squeezed Lemonade,147,2.75,1,2.75,1,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0
 1110,3/7/22,3/5/22,9,Factory,Coca Cola - Zero Sugar,142,1,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0
 1111,3/7/22,3/5/22,9,Factory,Sunkist Soda - Orange,140,1,1,1,1,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
-1112,3/7/22,3/5/22,9,Factory,Cheetos - Fleming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0
+1112,3/7/22,3/5/22,9,Factory,Cheetos - Flaming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0
 1113,3/7/22,3/5/22,9,Factory,Coca Cola - Zero Sugar,142,1,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0
 1114,3/8/22,3/5/22,9,Factory,Cheetos Flaming Hot Limon Crunchy,120,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
 1115,3/8/22,3/5/22,9,Factory,Cheetos Flaming Hot Limon Crunchy,120,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
-1116,3/8/22,3/5/22,9,Factory,Cheetos - Fleming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0
+1116,3/8/22,3/5/22,9,Factory,Cheetos - Flaming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0
 1117,3/8/22,3/5/22,9,Factory,Ritz Bits Cheese,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
 1118,3/8/22,3/5/22,9,Office,Miss Vickie's Potato Chip - Jalapeno,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
 1119,3/8/22,3/5/22,9,Factory,Monster Energy Original,144,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0
@@ -1137,12 +1137,12 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 1135,3/9/22,3/5/22,9,Office,Robert Irvine's - Fit Crunch -  Chocolate Pea,132,2,1,2,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0
 1136,3/9/22,3/5/22,9,Factory,Good Health Veggie Stix - Zesty Ranch,110,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0
 1137,3/9/22,3/5/22,9,Office,Vitamin Water - Squeezed Lemonade,147,2.5,1,2.5,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0
-1138,3/9/22,3/5/22,9,Factory,Cheetos - Fleming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0
+1138,3/9/22,3/5/22,9,Factory,Cheetos - Flaming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0
 1139,3/9/22,3/5/22,9,Mall 2,KitKat - Crisp Wafers,130,2,1,2,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0
 1140,3/9/22,3/5/22,9,Factory,Monster Energy Original,144,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0
 1141,3/9/22,3/5/22,9,Factory,Sunkist Soda - Orange,140,1,1,1,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0
 1142,3/9/22,3/5/22,9,Factory,Sunkist Soda - Orange,140,1,1,1,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0
-1143,3/9/22,3/5/22,9,Factory,Cheetos - Fleming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
+1143,3/9/22,3/5/22,9,Factory,Cheetos - Flaming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
 1144,3/10/22,3/5/22,9,Factory,Sunkist Soda - Orange,140,1,1,1,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
 1145,3/10/22,3/5/22,9,Factory,Oreo Single Server 6 ct,138,2,2,4,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0
 1146,3/10/22,3/5/22,9,Factory,Oreo Single Server 6 ct,134,2,1,2,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0
@@ -1152,7 +1152,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 1150,3/10/22,3/5/22,9,Office,RXBAR - Protein Bar - Peanut Butter,131,2,1,2,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0
 1151,3/10/22,3/5/22,9,Office,Robert Irvine's - Fit Crunch -  Chocolate Pea,132,2,1,2,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0
 1152,3/10/22,3/5/22,9,Factory,Chesters Fries Flaming hot,112,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0
-1153,3/10/22,3/5/22,9,Factory,Cheetos - Fleming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0
+1153,3/10/22,3/5/22,9,Factory,Cheetos - Flaming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0
 1154,3/10/22,3/5/22,9,Office,SunChips Multigrain - Harvest Cheddar,121,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0
 1155,3/10/22,3/5/22,9,Office,Miss Vickie's Potato Chip - Smokehouse BBQ,111,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0
 1156,3/10/22,3/5/22,9,Factory,Coca Cola - Zero Sugar,142,1,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
@@ -1163,7 +1163,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 1161,3/10/22,3/5/22,9,Factory,Coca Cola - Zero Sugar,142,1,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
 1162,3/11/22,3/5/22,9,Factory,Coca Cola - Zero Sugar,142,1,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
 1163,3/11/22,3/5/22,9,Factory,Skinny Pop Popcorn,111,1.5,1,1.5,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1
-1164,3/11/22,3/5/22,9,Factory,Cheetos - Fleming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1
+1164,3/11/22,3/5/22,9,Factory,Cheetos - Flaming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1
 1165,3/11/22,3/5/22,9,Factory,Chum Fruit Bites - Mango/Strawberry,132,1.25,1,1.25,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1
 1166,3/11/22,3/5/22,9,Factory,Oreo Single Server 6 ct,134,2,1,2,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1
 1167,3/11/22,3/5/22,9,Office,Miss Vickie's Potato Chip - Jalapeno,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
@@ -1902,7 +1902,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 1900,4/12/22,4/9/22,14,Factory,KitKat - Crisp Wafers,134,2,1,2,0,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0
 1901,4/12/22,4/9/22,14,Factory,Pop Corners - Spicy Queso,112,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0
 1902,4/12/22,4/9/22,14,Factory,Quaker Caramel Rice Crisps,122,1.5,1,1.5,0,1,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0
-1903,4/12/22,4/9/22,14,Factory,Cheetos - Fleming Hot Crunchy,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0
+1903,4/12/22,4/9/22,14,Factory,Cheetos - Flaming Hot Crunchy,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0
 1904,4/12/22,4/9/22,14,Office,Miss Vickie's Potato Chip - Smokehouse BBQ,111,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0
 1905,4/12/22,4/9/22,14,Library,Oreo Mini,120,2,1,2,0,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0
 1906,4/12/22,4/9/22,14,Library,Keto Krisp - Almond Butter,133,2,1,2,1,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0
@@ -2074,9 +2074,9 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 2072,4/18/22,4/16/22,15,Factory,Sunkist Soda - Orange,140,1,1,1,1,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
 2073,4/18/22,4/16/22,15,Mall 2,SunChips Multigrain - Harvest Cheddar,113,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0
 2074,4/18/22,4/16/22,15,Factory,Red Bull - Original,148,3.5,1,3.5,1,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
-2075,4/18/22,4/16/22,15,Factory,Cheetos - Fleming Hot Crunchy,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
+2075,4/18/22,4/16/22,15,Factory,Cheetos - Flaming Hot Crunchy,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
 2076,4/18/22,4/16/22,15,Mall 1,RXBAR - Protein Bar - Chocolate Sea Salt,132,2,1,2,0,1,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0
-2077,4/18/22,4/16/22,15,Factory,Cheetos - Fleming Hot Crunchy,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0
+2077,4/18/22,4/16/22,15,Factory,Cheetos - Flaming Hot Crunchy,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0
 2078,4/18/22,4/16/22,15,Library,Genius Keto Bar - Chocolate Dream,136,2,1,2,0,1,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0
 2079,4/18/22,4/16/22,15,Mall 2,Poland Springs Water,144,1.5,1,1.5,1,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0
 2080,4/18/22,4/16/22,15,Mall 2,CheezIt - Original,123,1.25,1,1.25,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
@@ -2098,7 +2098,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 2096,4/18/22,4/16/22,15,Factory,Sunkist Soda - Orange,140,1,1,1,1,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
 2097,4/18/22,4/16/22,15,Factory,Cheetos Flaming Hot Limon Crunchy,121,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
 2098,4/18/22,4/16/22,15,Factory,Stretch Island Fruit Leathers Snacks - Variet,130,1,1,1,0,1,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0
-2099,4/18/22,4/16/22,15,Factory,Cheetos - Fleming Hot Crunchy,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
+2099,4/18/22,4/16/22,15,Factory,Cheetos - Flaming Hot Crunchy,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
 2100,4/19/22,4/16/22,15,Factory,Monster Energy Original,144,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0
 2101,4/19/22,4/16/22,15,Factory,Cheetos Flaming Hot Limon Crunchy,121,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
 2102,4/19/22,4/16/22,15,Factory,Snapple Diet Tea - Lemon,143,2.5,1,2.5,1,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0
@@ -2125,7 +2125,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 2123,4/19/22,4/16/22,15,Mall 2,Poland Springs Water,144,1.5,1,1.5,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0
 2124,4/19/22,4/16/22,15,Factory,Coca Cola - Zero Sugar,141,1.5,1,1.5,1,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0
 2125,4/19/22,4/16/22,15,Factory,Coca Cola - Zero Sugar,141,1.5,1,1.5,1,0,1,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0
-2126,4/19/22,4/16/22,15,Factory,Cheetos - Fleming Hot Crunchy,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
+2126,4/19/22,4/16/22,15,Factory,Cheetos - Flaming Hot Crunchy,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
 2127,4/19/22,4/16/22,15,Factory,Coca Cola - Zero Sugar,141,1.5,1,1.5,1,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0
 2128,4/19/22,4/16/22,15,Factory,Coca Cola - Zero Sugar,141,1.5,1,1.5,1,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0
 2129,4/19/22,4/16/22,15,Factory,Jacks Links Bar Beef Strip,137,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
@@ -2135,7 +2135,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 2133,4/19/22,4/16/22,15,Factory,Monster Energy Original,146,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0
 2134,4/20/22,4/16/22,15,Factory,Monster Energy Original,146,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0
 2135,4/20/22,4/16/22,15,Factory,Quaker Caramel Rice Crisps,122,1.5,1,1.5,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0
-2136,4/20/22,4/16/22,15,Factory,Cheetos - Fleming Hot Crunchy,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0
+2136,4/20/22,4/16/22,15,Factory,Cheetos - Flaming Hot Crunchy,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0
 2137,4/20/22,4/16/22,15,Library,Belvita Snack Packs - Chocolate,123,1.5,1,1.5,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0
 2138,4/20/22,4/16/22,15,Library,Poland Springs Water,144,1.5,1,1.5,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0
 2139,4/20/22,4/16/22,15,Office,SunChips Multigrain - Harvest Cheddar,123,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0
@@ -2210,7 +2210,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 2208,4/22/22,4/16/22,15,Library,Poland Springs Water,144,1.5,1,1.5,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1
 2209,4/22/22,4/16/22,15,Library,Poland Springs Water,144,1.5,1,1.5,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1
 2210,4/22/22,4/16/22,15,Factory,Newtons Fig Bar,136,1.5,1,1.5,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1
-2211,4/22/22,4/16/22,15,Factory,Cheetos - Fleming Hot Crunchy,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
+2211,4/22/22,4/16/22,15,Factory,Cheetos - Flaming Hot Crunchy,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 2212,4/22/22,4/16/22,15,Mall 2,Vitamin Water - Squeezed Lemonade,147,2.75,1,2.75,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1
 2213,4/22/22,4/16/22,15,Mall 1,Snyder's of Hanover Pretzel - Cheddar Cheese,120,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1
 2214,4/22/22,4/16/22,15,Mall 1,Good Health Veggie Stix - Sea Salt,110,1.5,1,1.5,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1
@@ -3135,7 +3135,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 3133,5/23/22,5/21/22,20,Library,Kinder - Bueno - Crispy Creamy Chocolate,135,2,1,2,0,1,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,0
 3134,5/23/22,5/21/22,20,Mall 2,CheezIt - Cheddar Sour Cream and Onion,120,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0
 3135,5/23/22,5/21/22,20,Mall 2,Bubly - Lime,142,1.5,1,1.5,1,0,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0
-3136,5/23/22,5/21/22,20,Factory,Cheetos - Fleming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0
+3136,5/23/22,5/21/22,20,Factory,Cheetos - Flaming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0
 3137,5/23/22,5/21/22,20,Library,CheezIt - Double Cheese,123,1.25,1,1.25,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
 3138,5/23/22,5/21/22,20,Factory,Fritos - Original,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
 3139,5/23/22,5/21/22,20,Factory,Fritos - Original,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
@@ -3200,7 +3200,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 3198,5/25/22,5/21/22,20,Factory,Coca Cola - Zero Sugar,142,1.5,1,1.5,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
 3199,5/25/22,5/21/22,20,Factory,Coca Cola - Zero Sugar,142,1.5,1,1.5,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
 3200,5/25/22,5/21/22,20,Mall 2,Takis - Hot Chilli Pepper & Lime,124,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
-3201,5/25/22,5/21/22,20,Factory,Cheetos - Fleming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
+3201,5/25/22,5/21/22,20,Factory,Cheetos - Flaming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
 3202,5/25/22,5/21/22,20,Mall 1,Pop Corners - Sweet & Salty Kettle,112,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
 3203,5/25/22,5/21/22,20,Factory,Ritz Bits Cheese,120,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0
 3204,5/25/22,5/21/22,20,Factory,Coca Cola - Zero Sugar,142,1.5,1,1.5,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
@@ -3254,7 +3254,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 3252,5/27/22,5/21/22,20,Mall 2,Pop Corners - White Cheddar,114,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 3253,5/27/22,5/21/22,20,Factory,Ritz Bits Cheese,120,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1
 3254,5/27/22,5/21/22,20,Factory,Monster Energy Original,144,3,1,3,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1
-3255,5/28/22,5/28/22,21,Factory,Cheetos - Fleming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
+3255,5/28/22,5/28/22,21,Factory,Cheetos - Flaming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
 3256,5/28/22,5/28/22,21,Factory,Monster Energy Original,144,3,1,3,1,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
 3257,5/28/22,5/28/22,21,Factory,Coca Cola - Zero Sugar,142,1.5,1,1.5,1,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
 3258,5/28/22,5/28/22,21,Factory,Ritz Bits Cheese,120,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
@@ -3348,17 +3348,17 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 3346,6/1/22,5/28/22,21,Library,SunChips Multigrain - Salsa,113,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0
 3347,6/1/22,5/28/22,21,Library,Poland Springs Water,144,1.5,1,1.5,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0
 3348,6/1/22,5/28/22,21,Library,Kinder - Bueno - Crispy Creamy Chocolate,135,2,1,2,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0
-3349,6/1/22,5/28/22,21,Factory,Cheetos - Fleming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
+3349,6/1/22,5/28/22,21,Factory,Cheetos - Flaming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
 3350,6/1/22,5/28/22,21,Library,Goldfish Baked - Cheddar,122,1.25,1,1.25,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0
 3351,6/1/22,5/28/22,21,Factory,Monster Energy Original,146,3,1,3,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0
 3352,6/2/22,5/28/22,21,Factory,Monster Energy Original,146,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
-3353,6/2/22,5/28/22,21,Factory,Cheetos - Fleming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
+3353,6/2/22,5/28/22,21,Factory,Cheetos - Flaming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
 3354,6/2/22,5/28/22,21,Mall 2,Snapple Diet Tea - Peach Tea,143,2.5,1,2.5,1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0
 3355,6/2/22,5/28/22,21,Mall 2,Snapple Diet Tea - Peach Tea,143,2.5,1,2.5,1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0
 3356,6/2/22,5/28/22,21,Factory,Snapple Diet Tea - Peach Tea,145,2.5,1,2.5,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0
 3357,6/2/22,5/28/22,21,Factory,Snapple Tea - Raspberry,147,2.5,1,2.5,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0
 3358,6/2/22,5/28/22,21,Factory,Snapple Diet Tea - Lemon,143,2.5,1,2.5,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0
-3359,6/2/22,5/28/22,21,Factory,Cheetos - Fleming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0
+3359,6/2/22,5/28/22,21,Factory,Cheetos - Flaming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0
 3360,6/2/22,5/28/22,21,Library,BodyArmor LYTE  - Peach Mango,147,2.5,1,2.5,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0
 3361,6/2/22,5/28/22,21,Library,SunChips Multigrain - Harvest Cheddar,112,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0
 3362,6/2/22,5/28/22,21,Factory,KitKat - Crisp Wafers,134,2,1,2,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0
@@ -3380,7 +3380,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 3378,6/2/22,5/28/22,21,Factory,KitKat - Crisp Wafers,134,2,1,2,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0
 3379,6/2/22,5/28/22,21,Factory,KitKat - Crisp Wafers,134,2,1,2,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0
 3380,6/2/22,5/28/22,21,Factory,Cheetos Flaming Hot Limon Crunchy,121,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
-3381,6/2/22,5/28/22,21,Factory,Cheetos - Fleming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
+3381,6/2/22,5/28/22,21,Factory,Cheetos - Flaming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
 3382,6/3/22,5/28/22,21,Library,BodyArmor LYTE  - Peach Mango,147,2.5,1,2.5,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1
 3383,6/3/22,5/28/22,21,Library,CheezIt - Double Cheese,123,1.25,1,1.25,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 3384,6/3/22,5/28/22,21,Library,Lenny & Larrys - Chocolate Chip,158,2,1,2,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1
@@ -3620,7 +3620,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 3618,6/10/22,6/4/22,22,Library,Oreo Mini,121,1.5,1,1.5,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1
 3619,6/10/22,6/4/22,22,Factory,Chesters Fries Flaming hot,111,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 3620,6/10/22,6/4/22,22,Mall 2,SunChips Multigrain - Harvest Cheddar,113,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1
-3621,6/10/22,6/4/22,22,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
+3621,6/10/22,6/4/22,22,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 3622,6/10/22,6/4/22,22,Factory,Monster Energy Original,146,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1
 3623,6/10/22,6/4/22,22,Factory,Lays - Classic,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1
 3624,6/11/22,6/11/22,23,Mall 2,Zevia Zero Calorie Energy - Mango Ginger,148,2.5,1,2.5,1,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0
@@ -3640,7 +3640,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 3638,6/11/22,6/11/22,23,Mall 1,Kinder - Bueno - Crispy Creamy Chocolate,135,2,1,2,0,1,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0,0
 3639,6/11/22,6/11/22,23,Factory,KitKat - Crisp Wafers,136,2.5,1,2.5,0,1,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0
 3640,6/11/22,6/11/22,23,Factory,Chesters Fries Flaming hot,111,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
-3641,6/12/22,6/11/22,23,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0
+3641,6/12/22,6/11/22,23,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0
 3642,6/12/22,6/11/22,23,Factory,Monster Energy Original,144,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
 3643,6/12/22,6/11/22,23,Factory,Chesters Fries Flaming hot,111,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0
 3644,6/12/22,6/11/22,23,Library,CheezIt - Go Paks,150,3,1,3,0,1,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0
@@ -3841,7 +3841,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 3839,6/17/22,6/11/22,23,Factory,Munchies Snack mix Flaming Hot,121,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 3840,6/17/22,6/11/22,23,Factory,Snapple Tea - Raspberry,147,2.5,1,2.5,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1
 3841,6/17/22,6/11/22,23,Factory,Cheetos Cheddar Jalapeno,124,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
-3842,6/17/22,6/11/22,23,Factory,Cheetos - Fleming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
+3842,6/17/22,6/11/22,23,Factory,Cheetos - Flaming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 3843,6/18/22,6/18/22,24,Factory,Sunkist Soda - Orange,140,1.5,1,1.5,1,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
 3844,6/18/22,6/18/22,24,Factory,Snapple Diet Tea - Lemon,143,2.5,1,2.5,1,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0
 3845,6/18/22,6/18/22,24,Factory,KitKat - Crisp Wafers,139,2.5,1,2.5,0,1,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0,0
@@ -3924,12 +3924,12 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 3922,6/21/22,6/18/22,24,Factory,Monster Energy Original,144,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0
 3923,6/21/22,6/18/22,24,Library,Lenny & Larrys - SnickerDoodle,157,3,1,3,0,1,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0
 3924,6/21/22,6/18/22,24,Mall 1,S. Pellegrino Sparkling Mineral Water,143,2,1,2,1,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0
-3925,6/21/22,6/18/22,24,Factory,Cheetos - Fleming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
+3925,6/21/22,6/18/22,24,Factory,Cheetos - Flaming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
 3926,6/21/22,6/18/22,24,Factory,Snapple Tea - Raspberry,147,2.5,1,2.5,1,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0
 3927,6/21/22,6/18/22,24,Factory,KitKat - Crisp Wafers,134,2.5,1,2.5,0,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0
-3928,6/21/22,6/18/22,24,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0
-3929,6/21/22,6/18/22,24,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0
-3930,6/21/22,6/18/22,24,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
+3928,6/21/22,6/18/22,24,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0
+3929,6/21/22,6/18/22,24,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0
+3930,6/21/22,6/18/22,24,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
 3931,6/22/22,6/18/22,24,Factory,Sunkist Soda - Orange,140,1.5,1,1.5,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0
 3932,6/22/22,6/18/22,24,Factory,Nutri Grain Apple Cinnamon,135,1.5,1,1.5,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0
 3933,6/22/22,6/18/22,24,Mall 1,S. Pellegrino Sparkling Mineral Water,143,2,1,2,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
@@ -3969,7 +3969,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 3967,6/22/22,6/18/22,24,Factory,Coca Cola - Zero Sugar,142,1.5,1,1.5,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
 3968,6/22/22,6/18/22,24,Factory,Coca Cola - Zero Sugar,142,1.5,1,1.5,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
 3969,6/22/22,6/18/22,24,Mall 2,SunChips Multigrain - Harvest Cheddar,113,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0
-3970,6/22/22,6/18/22,24,Factory,Cheetos - Fleming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
+3970,6/22/22,6/18/22,24,Factory,Cheetos - Flaming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
 3971,6/22/22,6/18/22,24,Factory,Cheetos Cheddar Jalapeno,124,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
 3972,6/23/22,6/18/22,24,Factory,Snapple Diet Tea - Peach Tea,145,2.5,1,2.5,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0
 3973,6/23/22,6/18/22,24,Factory,KitKat - Crisp Wafers,136,2.5,1,2.5,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0
@@ -3998,11 +3998,11 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 3996,6/23/22,6/18/22,24,Factory,Cheetos Cheddar Jalapeno,124,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
 3997,6/23/22,6/18/22,24,Factory,Snapple Diet Tea - Peach Tea,145,2.5,1,2.5,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0
 3998,6/23/22,6/18/22,24,Factory,Coca Cola - Zero Sugar,142,1.5,1,1.5,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
-3999,6/23/22,6/18/22,24,Factory,Cheetos - Fleming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
+3999,6/23/22,6/18/22,24,Factory,Cheetos - Flaming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
 4000,6/23/22,6/18/22,24,Factory,Coca Cola - Zero Sugar,142,1.5,1,1.5,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
 4001,6/23/22,6/18/22,24,Factory,Coca Cola - Zero Sugar,142,1.5,1,1.5,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
-4002,6/24/22,6/18/22,24,Factory,Cheetos - Fleming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
-4003,6/24/22,6/18/22,24,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
+4002,6/24/22,6/18/22,24,Factory,Cheetos - Flaming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
+4003,6/24/22,6/18/22,24,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 4004,6/24/22,6/18/22,24,Factory,Cheetos Cheddar Jalapeno,124,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 4005,6/24/22,6/18/22,24,Office,Takis - Hot Chilli Pepper & Lime,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 4006,6/24/22,6/18/22,24,Library,CheezIt - Original,124,1.25,1,1.25,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
@@ -4011,7 +4011,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 4009,6/24/22,6/18/22,24,Library,Oreo Single Server 6 ct,138,2,1,2,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1
 4010,6/24/22,6/18/22,24,Office,Miss Vickie's Potato Chip - Smokehouse BBQ,112,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 4011,6/24/22,6/18/22,24,Mall 2,Monster Energy Original,146,3,1,3,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1
-4012,6/24/22,6/18/22,24,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1
+4012,6/24/22,6/18/22,24,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1
 4013,6/24/22,6/18/22,24,Mall 2,Monster Energy Original,146,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1
 4014,6/24/22,6/18/22,24,Mall 2,Pop Corners - Spicy Queso,111,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 4015,6/24/22,6/18/22,24,Mall 2,Coca Cola - Zero Sugar,140,1.5,1,1.5,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
@@ -4255,7 +4255,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 4253,7/1/22,6/25/22,25,Factory,Snapple Tea - Raspberry,147,2.5,1,2.5,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1
 4254,7/1/22,6/25/22,25,Factory,Funyuns - Flaming Hot,110,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 4255,7/1/22,6/25/22,25,Factory,Funyuns - Flaming Hot,110,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
-4256,7/1/22,6/25/22,25,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
+4256,7/1/22,6/25/22,25,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 4257,7/1/22,6/25/22,25,Factory,Red Bull - Original,148,3.5,1,3.5,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1
 4258,7/1/22,6/25/22,25,Factory,Monster Energy Original,144,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1
 4259,7/1/22,6/25/22,25,Factory,Monster Energy Original,144,3,1,3,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1
@@ -4305,7 +4305,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 4303,7/1/22,6/25/22,25,Factory,Coca Cola - Regular,141,1.5,1,1.5,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1
 4304,7/1/22,6/25/22,25,Factory,KitKat - Crisp Wafers,139,2.5,1,2.5,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1
 4305,7/1/22,6/25/22,25,Factory,Sunkist Soda - Orange,140,1.5,1,1.5,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1
-4306,7/2/22,7/2/22,26,Factory,Cheetos - Fleming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
+4306,7/2/22,7/2/22,26,Factory,Cheetos - Flaming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
 4307,7/2/22,7/2/22,26,Library,Pop Corners - Kettle Corn,110,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
 4308,7/2/22,7/2/22,26,Library,Poland Springs Water,144,1.5,1,1.5,1,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
 4309,7/2/22,7/2/22,26,Factory,Coca Cola - Regular,141,1.5,1,1.5,1,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
@@ -4313,7 +4313,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 4311,7/2/22,7/2/22,26,Factory,Funyuns - Flaming Hot,110,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
 4312,7/2/22,7/2/22,26,Factory,Coca Cola - Regular,142,1.5,1,1.5,1,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
 4313,7/2/22,7/2/22,26,Factory,Monster Energy Original,146,3,1,3,1,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
-4314,7/2/22,7/2/22,26,Factory,Cheetos - Fleming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
+4314,7/2/22,7/2/22,26,Factory,Cheetos - Flaming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
 4315,7/2/22,7/2/22,26,Mall 2,Poland Springs Water,144,1.5,1,1.5,1,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
 4316,7/2/22,7/2/22,26,Library,Popchips Potato - Barbeque,111,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0
 4317,7/2/22,7/2/22,26,Library,Keep Healthy - Chocolate Fudge,132,2,1,2,0,1,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0
@@ -4483,7 +4483,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 4481,7/8/22,7/2/22,26,Factory,Snapple Tea - Lemon,143,2.5,1,2.5,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1
 4482,7/8/22,7/2/22,26,Library,CheezIt - Cheddar Sour Cream and Onion,124,1.25,1,1.25,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 4483,7/8/22,7/2/22,26,Factory,Nature's Bakery Fig Bar - Blueberry,132,1.5,1,1.5,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1
-4484,7/8/22,7/2/22,26,Factory,Cheetos - Fleming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
+4484,7/8/22,7/2/22,26,Factory,Cheetos - Flaming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 4485,7/8/22,7/2/22,26,Factory,Snapple Tea - Peach,145,2.5,1,2.5,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1
 4486,7/8/22,7/2/22,26,Library,Wonderful Pistachios - Variety,134,2,1,2,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1
 4487,7/8/22,7/2/22,26,Mall 2,CheezIt - Original,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
@@ -4530,9 +4530,9 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 4528,7/10/22,7/9/22,27,Mall 1,Oreo Mini,122,1.5,1,1.5,0,1,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0
 4529,7/11/22,7/9/22,27,Factory,Nature's Bakery Fig Bar - Blueberry,132,1.5,1,1.5,0,1,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0
 4530,7/11/22,7/9/22,27,Mall 2,SunChips Multigrain - Harvest Cheddar,113,1.5,1,1.5,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0
-4531,7/11/22,7/9/22,27,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
+4531,7/11/22,7/9/22,27,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
 4532,7/11/22,7/9/22,27,Factory,Nature's Bakery Fig Bar - Raspberry,130,1.5,1,1.5,0,1,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0
-4533,7/11/22,7/9/22,27,Factory,Cheetos - Fleming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
+4533,7/11/22,7/9/22,27,Factory,Cheetos - Flaming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
 4534,7/11/22,7/9/22,27,Office,Robert Irvine's - Fit Crunch -  Chocolate Pea,132,2,1,2,0,1,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0
 4535,7/11/22,7/9/22,27,Library,Goldfish Baked - Cheddar,125,1.25,1,1.25,0,1,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0
 4536,7/11/22,7/9/22,27,Library,Autumns Granola Bar - Cinnamon Almond,130,2,2,4,0,1,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0
@@ -4540,7 +4540,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 4538,7/11/22,7/9/22,27,Library,Starbucks Refresher - Real Coconut Water,148,3,1,3,1,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0
 4539,7/11/22,7/9/22,27,Library,Coca Cola - Zero Sugar,142,1.5,1,1.5,1,0,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0
 4540,7/11/22,7/9/22,27,Factory,KitKat - Crisp Wafers,138,2.5,1,2.5,0,1,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,0
-4541,7/11/22,7/9/22,27,Factory,Cheetos - Fleming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
+4541,7/11/22,7/9/22,27,Factory,Cheetos - Flaming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
 4542,7/11/22,7/9/22,27,Factory,KitKat - Crisp Wafers,134,2.5,1,2.5,0,1,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0
 4543,7/11/22,7/9/22,27,Library,Iberia Coconut Water,140,2,1,2,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0
 4544,7/11/22,7/9/22,27,Library,BodyArmor  LYTE - Blueberry Pomegranate,143,2.75,1,2.75,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0
@@ -4589,7 +4589,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 4587,7/12/22,7/9/22,27,Mall 2,Miss Vickie's Potato Chip - Lime & Cracked Pe,124,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0
 4588,7/12/22,7/9/22,27,Mall 2,Miss Vickie's Potato Chip - Smokehouse BBQ,125,1.25,1,1.25,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0
 4589,7/12/22,7/9/22,27,Office,Miss Vickie's Potato Chip - Jalapeno,112,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0
-4590,7/12/22,7/9/22,27,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
+4590,7/12/22,7/9/22,27,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
 4591,7/12/22,7/9/22,27,Library,Poland Springs Water,144,1.5,1,1.5,1,0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0
 4592,7/12/22,7/9/22,27,Library,CheezIt - White Cheddar,123,1.25,1,1.25,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
 4593,7/12/22,7/9/22,27,Library,CheezIt - Cheddar Sour Cream and Onion,124,1.25,1,1.25,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
@@ -4635,7 +4635,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 4633,7/13/22,7/9/22,27,Library,Seapoint Farms Dry Roasted Edamame - Wasabi,133,2.5,1,2.5,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0
 4634,7/13/22,7/9/22,27,Factory,Doritos Nacho Cheese,121,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
 4635,7/13/22,7/9/22,27,Factory,KitKat - Crisp Wafers,137,2.5,1,2.5,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0
-4636,7/13/22,7/9/22,27,Factory,Cheetos - Fleming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
+4636,7/13/22,7/9/22,27,Factory,Cheetos - Flaming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
 4637,7/13/22,7/9/22,27,Factory,Monster Energy Original,146,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0
 4638,7/13/22,7/9/22,27,Factory,Doritos Cool Ranch,120,1.5,2,3,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0
 4639,7/13/22,7/9/22,27,Factory,Doritos Nacho Cheese,121,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0
@@ -4909,7 +4909,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 4907,7/20/22,7/16/22,28,Library,Starbucks Doubleshot Energy - Mocha,146,3.5,1,3.5,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0
 4908,7/20/22,7/16/22,28,Factory,KitKat - Crisp Wafers,137,2.5,1,2.5,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0
 4909,7/20/22,7/16/22,28,Factory,Snapple Tea - Raspberry,147,2.5,1,2.5,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0
-4910,7/20/22,7/16/22,28,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
+4910,7/20/22,7/16/22,28,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
 4911,7/20/22,7/16/22,28,Mall 1,Autumns Granola Bar - Cinnamon Almond,136,2,1,2,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0
 4912,7/20/22,7/16/22,28,Library,SunChips Multigrain - Harvest Cheddar,110,1.5,1,1.5,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0
 4913,7/20/22,7/16/22,28,Factory,KitKat - Crisp Wafers,138,2.5,1,2.5,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0
@@ -4950,7 +4950,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 4948,7/21/22,7/16/22,28,Library,Coca Cola - Zero Sugar,142,1.5,1,1.5,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0
 4949,7/21/22,7/16/22,28,Library,Wonderful Pistachios - Variety,134,2,1,2,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0
 4950,7/21/22,7/16/22,28,Library,Coca Cola - Zero Sugar,142,1.5,1,1.5,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
-4951,7/21/22,7/16/22,28,Factory,Cheetos - Fleming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
+4951,7/21/22,7/16/22,28,Factory,Cheetos - Flaming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
 4952,7/21/22,7/16/22,28,Library,CheezIt - White Cheddar,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
 4953,7/21/22,7/16/22,28,Library,Iberia Coconut Water,140,2,1,2,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0
 4954,7/21/22,7/16/22,28,Library,SunChips Multigrain - Harvest Cheddar,110,1.5,1,1.5,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0
@@ -4960,8 +4960,8 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 4958,7/21/22,7/16/22,28,Library,KitKat - Crisp Wafers,138,2,1,2,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0
 4959,7/21/22,7/16/22,28,Library,Coca Cola - Zero Sugar,142,1.5,1,1.5,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
 4960,7/21/22,7/16/22,28,Library,BodyArmor  LYTE - Blueberry Pomegranate,143,2.75,1,2.75,1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0
-4961,7/21/22,7/16/22,28,Factory,Cheetos - Fleming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
-4962,7/21/22,7/16/22,28,Factory,Cheetos - Fleming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
+4961,7/21/22,7/16/22,28,Factory,Cheetos - Flaming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
+4962,7/21/22,7/16/22,28,Factory,Cheetos - Flaming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
 4963,7/21/22,7/16/22,28,Factory,Chesters Fries Flaming hot,111,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
 4964,7/21/22,7/16/22,28,Factory,Nature's Bakery Fig Bar - Raspberry,130,1.5,1,1.5,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0
 4965,7/21/22,7/16/22,28,Factory,Nature's Bakery Fig Bar - Blueberry,132,1.5,1,1.5,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0
@@ -4994,7 +4994,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 4992,7/22/22,7/16/22,28,Library,Snyder's of Hanover Pretzel Pieces - Honey Mu,120,2.5,1,2.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1
 4993,7/22/22,7/16/22,28,Library,Coca Cola - Zero Sugar,142,1.5,1,1.5,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1
 4994,7/22/22,7/16/22,28,Factory,Fritos - Original,125,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
-4995,7/22/22,7/16/22,28,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
+4995,7/22/22,7/16/22,28,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 4996,7/22/22,7/16/22,28,Library,Pop Corners - Sweet & Salty Kettle,112,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 4997,7/22/22,7/16/22,28,Office,Robert Irvine's - Fit Crunch -  Chocolate Pea,132,2,1,2,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1
 4998,7/22/22,7/16/22,28,Mall 1,Spindrift - Sparkling Water - Pineapple,142,1.5,1,1.5,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
@@ -5255,7 +5255,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 5253,7/28/22,7/23/22,29,Mall 2,CheezIt - Original,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
 5254,7/28/22,7/23/22,29,Factory,Snapple Tea - Peach,147,2.5,1,2.5,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0
 5255,7/28/22,7/23/22,29,Factory,Doritos Cool Ranch,120,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
-5256,7/28/22,7/23/22,29,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
+5256,7/28/22,7/23/22,29,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
 5257,7/28/22,7/23/22,29,Mall 2,KitKat - Crisp Wafers,130,2,3,6,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0
 5258,7/28/22,7/23/22,29,Factory,Coca Cola - Regular,142,1.5,1,1.5,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
 5259,7/28/22,7/23/22,29,Factory,Coca Cola - Regular,142,1.5,1,1.5,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
@@ -5367,7 +5367,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 5365,8/2/22,7/30/22,30,Factory,Doritos Famin Hot Nacho,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
 5366,8/2/22,7/30/22,30,Factory,Monster Energy Original,146,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0
 5367,8/2/22,7/30/22,30,Factory,Cheetos - Crunchy,124,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
-5368,8/3/22,7/30/22,30,Factory,Cheetos - Fleming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
+5368,8/3/22,7/30/22,30,Factory,Cheetos - Flaming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
 5369,8/3/22,7/30/22,30,Mall 1,SunChips Multigrain - Salsa,110,1.5,1,1.5,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0
 5370,8/3/22,7/30/22,30,Mall 1,Wonderful Pistachios - Variety,133,2,1,2,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0
 5371,8/3/22,7/30/22,30,Library,Starbucks Refresher - Real Coconut Water,148,3,1,3,1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0
@@ -5438,7 +5438,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 5436,8/4/22,7/30/22,30,Factory,Coca Cola - Regular,142,1.5,1,1.5,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
 5437,8/4/22,7/30/22,30,Factory,Coca Cola - Regular,141,1.5,1,1.5,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
 5438,8/4/22,7/30/22,30,Factory,Monster Energy Original,144,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
-5439,8/4/22,7/30/22,30,Factory,Cheetos - Fleming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
+5439,8/4/22,7/30/22,30,Factory,Cheetos - Flaming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
 5440,8/4/22,7/30/22,30,Factory,Coca Cola - Regular,141,1.5,1,1.5,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
 5441,8/5/22,7/30/22,30,Factory,Coca Cola - Regular,142,1.5,1,1.5,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1
 5442,8/5/22,7/30/22,30,Factory,Doritos Nacho Cheese,111,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
@@ -5531,7 +5531,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 5529,8/8/22,8/6/22,31,Office,Oreo Mini,121,1.5,1,1.5,0,1,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0
 5530,8/8/22,8/6/22,31,Factory,Monster Energy Original,146,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
 5531,8/8/22,8/6/22,31,Factory,Coca Cola - Regular,142,1.5,1,1.5,1,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
-5532,8/8/22,8/6/22,31,Factory,Cheetos - Fleming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
+5532,8/8/22,8/6/22,31,Factory,Cheetos - Flaming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
 5533,8/8/22,8/6/22,31,Mall 2,Poland Springs Water,144,1.5,1,1.5,1,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0,0
 5534,8/8/22,8/6/22,31,Factory,Nature's Bakery Fig Bar - Blueberry,131,1.5,1,1.5,0,1,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0
 5535,8/8/22,8/6/22,31,Factory,Red Bull - Original,148,3.5,1,3.5,1,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
@@ -5544,7 +5544,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 5542,8/8/22,8/6/22,31,Library,Miss Vickie's Potato Chip - Jalapeno,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
 5543,8/8/22,8/6/22,31,Factory,Coca Cola - Regular,141,1.5,1,1.5,1,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
 5544,8/8/22,8/6/22,31,Factory,Coca Cola - Regular,142,1.5,1,1.5,1,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
-5545,8/8/22,8/6/22,31,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
+5545,8/8/22,8/6/22,31,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
 5546,8/8/22,8/6/22,31,Factory,KitKat - Crisp Wafers,137,2.5,1,2.5,0,1,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0
 5547,8/9/22,8/6/22,31,Factory,Doritos Nacho Cheese,111,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0
 5548,8/9/22,8/6/22,31,Factory,Snapple Lemonade - black berry,147,2.5,1,2.5,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0
@@ -5567,7 +5567,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 5565,8/9/22,8/6/22,31,Factory,Cheetos - Crunchy,124,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
 5566,8/9/22,8/6/22,31,Office,Pop Corners - Kettle Corn,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0
 5567,8/9/22,8/6/22,31,Office,CheezIt - Original,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0
-5568,8/9/22,8/6/22,31,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0
+5568,8/9/22,8/6/22,31,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0
 5569,8/9/22,8/6/22,31,Library,Ice Breakers Ice Cubes - PepperMint,163,5,1,5,0,1,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0
 5570,8/9/22,8/6/22,31,Library,Goldfish Baked - Cheddar,122,1.25,1,1.25,0,1,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0
 5571,8/9/22,8/6/22,31,Library,Miss Vickie's Potato Chip - Jalapeno,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
@@ -5595,7 +5595,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 5593,8/9/22,8/6/22,31,Mall 2,Iberia Coconut Water,142,2,1,2,1,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0
 5594,8/9/22,8/6/22,31,Factory,Doritos Nacho Cheese,111,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0
 5595,8/9/22,8/6/22,31,Factory,SunChips Multigrain - Salsa,121,1.5,1,1.5,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0
-5596,8/9/22,8/6/22,31,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
+5596,8/9/22,8/6/22,31,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
 5597,8/10/22,8/6/22,31,Factory,Monster Energy Original,144,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0
 5598,8/10/22,8/6/22,31,Factory,Snapple Lemonade - black berry,147,2.5,1,2.5,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0
 5599,8/10/22,8/6/22,31,Factory,Funyuns - Flaming Hot,112,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0
@@ -5687,10 +5687,10 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 5685,8/11/22,8/6/22,31,Factory,SunChips Multigrain - Salsa,121,1.5,1,1.5,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0
 5686,8/11/22,8/6/22,31,Factory,Cheetos Flaming Hot Limon Crunchy,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
 5687,8/11/22,8/6/22,31,Factory,Snapple Lemonade - pineapple,145,2.5,1,2.5,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0
-5688,8/11/22,8/6/22,31,Factory,Cheetos - Fleming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
+5688,8/11/22,8/6/22,31,Factory,Cheetos - Flaming Hot Crunchy,114,2,1,2,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
 5689,8/11/22,8/6/22,31,Factory,SunChips Multigrain - Harvest Cheddar,120,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0
 5690,8/11/22,8/6/22,31,Factory,SunChips Multigrain - Harvest Cheddar,120,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0
-5691,8/11/22,8/6/22,31,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
+5691,8/11/22,8/6/22,31,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
 5692,8/12/22,8/6/22,31,Factory,SunChips Multigrain - Harvest Cheddar,120,1.5,1,1.5,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1
 5693,8/12/22,8/6/22,31,Factory,Cheetos Flaming Hot Limon Crunchy,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1
 5694,8/12/22,8/6/22,31,Factory,Nature's Bakery Fig Bar - Raspberry,130,1.5,1,1.5,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1
@@ -5737,7 +5737,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 5735,8/13/22,8/13/22,32,Library,Wonderful Pistachios - Variety,131,2,1,2,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0
 5736,8/13/22,8/13/22,32,Library,Starbucks Doubleshot Energy - Mocha,146,3.5,1,3.5,1,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0
 5737,8/13/22,8/13/22,32,Factory,Jack Links Beef Steak Original,139,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
-5738,8/13/22,8/13/22,32,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
+5738,8/13/22,8/13/22,32,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
 5739,8/13/22,8/13/22,32,Mall 1,Wonderful Pistachios - Variety,133,2,1,2,0,1,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0
 5740,8/13/22,8/13/22,32,Library,CheezIt - Original,121,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
 5741,8/13/22,8/13/22,32,Mall 1,Monster Energy Original,147,3,1,3,1,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0
@@ -5745,7 +5745,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 5743,8/13/22,8/13/22,32,Mall 2,KitKat - Crisp Wafers,130,2,1,2,0,1,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0,0
 5744,8/14/22,8/13/22,32,Mall 2,Snapple Diet Tea - Peach Tea,143,2.5,1,2.5,1,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0
 5745,8/14/22,8/13/22,32,Mall 2,Seapoint Farms Dry Roasted Edamame - Wasabi,135,2.5,1,2.5,0,1,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0
-5746,8/15/22,8/13/22,32,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0
+5746,8/15/22,8/13/22,32,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0
 5747,8/15/22,8/13/22,32,Library,CheezIt - Original,121,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0
 5748,8/15/22,8/13/22,32,Office,CheezIt - Cheddar Sour Cream and Onion,120,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0
 5749,8/15/22,8/13/22,32,Library,CheezIt - White Cheddar,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
@@ -5771,7 +5771,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 5769,8/15/22,8/13/22,32,Library,RXBAR - Protein Bar - Peanut Butter,135,2,1,2,0,1,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0
 5770,8/15/22,8/13/22,32,Library,RXBAR - Protein Bar - Peanut Butter,135,2,1,2,0,1,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0
 5771,8/15/22,8/13/22,32,Factory,KitKat - Crisp Wafers,137,2.5,1,2.5,0,1,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0
-5772,8/15/22,8/13/22,32,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
+5772,8/15/22,8/13/22,32,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
 5773,8/15/22,8/13/22,32,Library,Coca Cola - Zero Sugar,141,2,1,2,1,0,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0
 5774,8/15/22,8/13/22,32,Library,Pop Corners - Sea Salt,112,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0
 5775,8/15/22,8/13/22,32,Library,Coca Cola - Zero Sugar,141,2,1,2,1,0,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0
@@ -5872,7 +5872,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 5870,8/18/22,8/13/22,32,Factory,Red Bull - Original,148,3.5,1,3.5,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
 5871,8/18/22,8/13/22,32,Factory,Sunkist Soda - Orange,140,1.5,1,1.5,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
 5872,8/18/22,8/13/22,32,Factory,Sunkist Soda - Orange,140,1.5,1,1.5,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
-5873,8/18/22,8/13/22,32,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
+5873,8/18/22,8/13/22,32,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
 5874,8/18/22,8/13/22,32,Factory,Funyuns - Flaming Hot,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
 5875,8/18/22,8/13/22,32,Mall 2,SunChips Multigrain - Original,111,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0
 5876,8/18/22,8/13/22,32,Factory,Coca Cola - Regular,142,1.5,1,1.5,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
@@ -6064,7 +6064,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 6062,8/24/22,8/20/22,33,Library,CheezIt - White Cheddar,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
 6063,8/24/22,8/20/22,33,Library,SunChips Multigrain - Harvest Cheddar,110,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0
 6064,8/24/22,8/20/22,33,Library,Spindrift - Sparkling Water  Lime,142,1.5,1,1.5,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
-6065,8/24/22,8/20/22,33,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
+6065,8/24/22,8/20/22,33,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
 6066,8/24/22,8/20/22,33,Factory,Cheetos Baked - Crunchy Cheese,114,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0
 6067,8/24/22,8/20/22,33,Factory,Snapple Tea - Raspberry,143,2.5,1,2.5,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0
 6068,8/24/22,8/20/22,33,Factory,Doritos Famin Hot Nacho,112,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0
@@ -6146,9 +6146,9 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 6144,8/26/22,8/20/22,33,Library,SunChips Multigrain - Original,112,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1
 6145,8/26/22,8/20/22,33,Library,Pringles - Cheddar Cheese,161,3,1,3,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 6146,8/26/22,8/20/22,33,Factory,SunChips Multigrain - Harvest Cheddar,111,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1
-6147,8/26/22,8/20/22,33,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
+6147,8/26/22,8/20/22,33,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 6148,8/26/22,8/20/22,33,Factory,SunChips Multigrain - Harvest Cheddar,111,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1
-6149,8/26/22,8/20/22,33,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
+6149,8/26/22,8/20/22,33,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 6150,8/26/22,8/20/22,33,Factory,Funyuns - Flaming Hot,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 6151,8/26/22,8/20/22,33,Factory,Snapple Tea - Lemon,145,2.5,1,2.5,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1
 6152,8/26/22,8/20/22,33,Factory,Snapple Tea - Lemon,145,2.5,1,2.5,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1
@@ -6203,7 +6203,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 6201,8/29/22,8/27/22,34,Library,TruBar - Daydreaming about Donuts,134,2.5,1,2.5,0,1,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0
 6202,8/29/22,8/27/22,34,Library,Spindrift - Sparkling Water  Lime,142,1.5,1,1.5,1,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0
 6203,8/29/22,8/27/22,34,Factory,Snapple Tea - Raspberry,143,2.5,1,2.5,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0
-6204,8/29/22,8/27/22,34,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
+6204,8/29/22,8/27/22,34,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
 6205,8/29/22,8/27/22,34,Factory,Fritos - Original,125,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
 6206,8/29/22,8/27/22,34,Factory,Fritos - Original,125,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
 6207,8/29/22,8/27/22,34,Library,TruBar - Daydreaming about Donuts,134,2.5,1,2.5,0,1,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0
@@ -6224,7 +6224,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 6222,8/29/22,8/27/22,34,Library,SunChips Multigrain - Harvest Cheddar,110,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0
 6223,8/29/22,8/27/22,34,Factory,Cheetos Flaming Hot Limon Crunchy,121,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
 6224,8/29/22,8/27/22,34,Factory,Cheetos Baked - Crunchy Cheese,114,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0
-6225,8/29/22,8/27/22,34,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
+6225,8/29/22,8/27/22,34,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
 6226,8/29/22,8/27/22,34,Library,Coca Cola - Zero Sugar,141,2,1,2,1,0,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0
 6227,8/29/22,8/27/22,34,Library,Pringles - Sour Cream & Onion,165,3,1,3,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
 6228,8/29/22,8/27/22,34,Library,BodyArmor LYTE - Strawberry Lemonade,147,2.75,1,2.75,1,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0
@@ -6273,7 +6273,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 6271,8/30/22,8/27/22,34,Library,Robert Irvine's - Fit Crunch -  Chocolate Pea,130,2,1,2,0,1,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0
 6272,8/30/22,8/27/22,34,Library,CheezIt - White Cheddar,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
 6273,8/30/22,8/27/22,34,Library,BodyArmor LYTE - Strawberry Lemonade,147,2.75,1,2.75,1,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0
-6274,8/30/22,8/27/22,34,Factory,Cheetos - Fleming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
+6274,8/30/22,8/27/22,34,Factory,Cheetos - Flaming Hot Crunchy,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
 6275,8/30/22,8/27/22,34,Mall 2,Snapple Tea - Lemon,147,2.5,1,2.5,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0
 6276,8/30/22,8/27/22,34,Factory,Fritos - Original,125,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
 6277,8/31/22,8/27/22,34,Office,Fritos - Original,121,2.25,1,2.25,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0
@@ -6360,7 +6360,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 6358,9/6/22,9/3/22,35,Office,Lindens - Chocolate Chippers,124,1.5,1,1.5,0,1,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0
 6359,9/6/22,9/3/22,35,Office,SunChips Multigrain - French Onion,114,1.5,1,1.5,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0
 6360,9/6/22,9/3/22,35,Factory,Red Bull - Original,148,3.5,1,3.5,1,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0
-6361,9/6/22,9/3/22,35,Factory,Cheetos - Fleming Hot Crunchy,111,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
+6361,9/6/22,9/3/22,35,Factory,Cheetos - Flaming Hot Crunchy,111,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
 6362,9/6/22,9/3/22,35,Office,Fritos - Original,121,2.25,1,2.25,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0
 6363,9/6/22,9/3/22,35,Office,Lindens - Chocolate Chippers,124,1.5,1,1.5,0,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0
 6364,9/6/22,9/3/22,35,Office,Wonderful Pistachios - Variety,136,2,1,2,0,1,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0
@@ -6566,7 +6566,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 6564,9/12/22,9/10/22,36,Office,SunChips Multigrain - Harvest Cheddar,112,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0
 6565,9/12/22,9/10/22,36,Factory,Snapple Tea - Peach,147,2.5,1,2.5,1,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0
 6566,9/12/22,9/10/22,36,Factory,Red Bull - Original,148,3.5,1,3.5,1,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
-6567,9/12/22,9/10/22,36,Factory,Cheetos - Fleming Hot Crunchy,111,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
+6567,9/12/22,9/10/22,36,Factory,Cheetos - Flaming Hot Crunchy,111,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
 6568,9/12/22,9/10/22,36,Office,Lindens - Chocolate Chippers,124,1.5,1,1.5,0,1,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0
 6569,9/12/22,9/10/22,36,Office,SunChips Multigrain - Original,120,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0
 6570,9/12/22,9/10/22,36,Office,Nutter Butter Bites,122,1.5,1,1.5,0,1,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0
@@ -6576,7 +6576,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 6574,9/12/22,9/10/22,36,Office,Goldfish Baked - Cheddar,125,1.25,1,1.25,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0
 6575,9/12/22,9/10/22,36,Library,Starbucks Doubleshot Energy - Mocha,146,3.5,1,3.5,1,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0
 6576,9/12/22,9/10/22,36,Factory,Red Bull - Original,148,3.5,1,3.5,1,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
-6577,9/12/22,9/10/22,36,Factory,Cheetos - Fleming Hot Crunchy,111,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
+6577,9/12/22,9/10/22,36,Factory,Cheetos - Flaming Hot Crunchy,111,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
 6578,9/12/22,9/10/22,36,Office,Wonderful Pistachios - Variety,136,2,1,2,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0
 6579,9/12/22,9/10/22,36,Mall 2,CheezIt - Original,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
 6580,9/12/22,9/10/22,36,Mall 2,Goldfish Baked - Cheddar,120,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0
@@ -6607,7 +6607,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 6605,9/13/22,9/10/22,36,Factory,Monster Energy Original,144,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0
 6606,9/13/22,9/10/22,36,Factory,Chesters Fries Flaming hot,110,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
 6607,9/13/22,9/10/22,36,Factory,Red Bull - Original,148,3.5,1,3.5,1,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0
-6608,9/13/22,9/10/22,36,Factory,Cheetos - Fleming Hot Crunchy,111,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
+6608,9/13/22,9/10/22,36,Factory,Cheetos - Flaming Hot Crunchy,111,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
 6609,9/13/22,9/10/22,36,Factory,Snapple Tea - Peach,147,2.5,1,2.5,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0
 6610,9/13/22,9/10/22,36,Factory,Red Bull - Original,148,3.5,1,3.5,1,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0
 6611,9/13/22,9/10/22,36,Office,SunChips Multigrain - Original,120,1.5,1,1.5,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0
@@ -6634,7 +6634,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 6632,9/13/22,9/10/22,36,Factory,Sunkist Soda - Orange,140,1.5,1,1.5,1,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0
 6633,9/13/22,9/10/22,36,Factory,SunChips Multigrain - French Onion,123,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0
 6634,9/13/22,9/10/22,36,Factory,Nature's Bakery Fig Bar - Raspberry,130,1.5,1,1.5,0,1,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0
-6635,9/13/22,9/10/22,36,Factory,Cheetos - Fleming Hot Crunchy,111,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
+6635,9/13/22,9/10/22,36,Factory,Cheetos - Flaming Hot Crunchy,111,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
 6636,9/13/22,9/10/22,36,Factory,Chesters Fries Flaming hot,110,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
 6637,9/13/22,9/10/22,36,Factory,Coca Cola - Regular,142,1.5,1,1.5,1,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0
 6638,9/13/22,9/10/22,36,Library,Wonderful Pistachios - Variety,139,2,1,2,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0
@@ -6665,7 +6665,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 6663,9/14/22,9/10/22,36,Office,Newtons Fig Bar,130,1.5,1,1.5,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0
 6664,9/14/22,9/10/22,36,Factory,SunChips Multigrain - French Onion,123,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0
 6665,9/14/22,9/10/22,36,Factory,Monster Energy Original,146,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0
-6666,9/14/22,9/10/22,36,Factory,Cheetos - Fleming Hot Crunchy,111,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
+6666,9/14/22,9/10/22,36,Factory,Cheetos - Flaming Hot Crunchy,111,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
 6667,9/14/22,9/10/22,36,Factory,Snapple Tea - Raspberry,143,2.5,1,2.5,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0
 6668,9/14/22,9/10/22,36,Factory,KitKat - Crisp Wafers,138,2.5,1,2.5,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0
 6669,9/14/22,9/10/22,36,Library,Miss Vickie's Potato Chip - Sea Salt Original,111,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
@@ -6693,7 +6693,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 6691,9/15/22,9/10/22,36,Factory,Hersheys Milk Chocolate,139,2.5,1,2.5,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0
 6692,9/15/22,9/10/22,36,Library,Lenny & Larrys - SnickerDoodle,157,3,1,3,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0
 6693,9/15/22,9/10/22,36,Factory,Red Bull - Original,148,3.5,1,3.5,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
-6694,9/15/22,9/10/22,36,Factory,Cheetos - Fleming Hot Crunchy,111,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
+6694,9/15/22,9/10/22,36,Factory,Cheetos - Flaming Hot Crunchy,111,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
 6695,9/15/22,9/10/22,36,Office,Coca Cola - Zero Sugar,141,1.5,1,1.5,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
 6696,9/15/22,9/10/22,36,Mall 2,Oreo Mini,124,1.5,1,1.5,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0
 6697,9/15/22,9/10/22,36,Mall 2,Goldfish Baked - Cheddar,120,1.5,1,1.5,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0
@@ -7954,7 +7954,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 7952,11/1/22,10/29/22,43,Library,Mini Chips Ahoy,155,4,1,4,0,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0
 7953,11/1/22,10/29/22,43,Library,Simply Protein - Dark Chocolate Sea Salt,137,2,1,2,0,1,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0
 7954,11/1/22,10/29/22,43,Factory,Takis FUGEO mini,111,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
-7955,11/1/22,10/29/22,43,Factory,Cheetos - Fleming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
+7955,11/1/22,10/29/22,43,Factory,Cheetos - Flaming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
 7956,11/1/22,10/29/22,43,Library,CheezIt - Original,121,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
 7957,11/1/22,10/29/22,43,Factory,Coca Cola - Regular,141,1.5,1,1.5,1,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0
 7958,11/1/22,10/29/22,43,Factory,Sunkist Soda - Orange,140,1.5,1,1.5,1,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0
@@ -8126,7 +8126,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 8124,11/7/22,11/5/22,44,Library,CheezIt - Original,121,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0
 8125,11/7/22,11/5/22,44,Factory,Sunkist Soda - Orange,140,1.5,1,1.5,1,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
 8126,11/7/22,11/5/22,44,Factory,Sunkist Soda - Orange,140,1.5,1,1.5,1,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
-8127,11/7/22,11/5/22,44,Factory,Cheetos - Fleming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
+8127,11/7/22,11/5/22,44,Factory,Cheetos - Flaming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
 8128,11/7/22,11/5/22,44,Library,SunChips Multigrain - French Onion,114,1.5,1,1.5,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0
 8129,11/7/22,11/5/22,44,Library,Oreo Mini,124,1.5,1,1.5,0,1,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,0
 8130,11/7/22,11/5/22,44,Library,Starbucks Doubleshot Energy - Mocha,146,4,1,4,1,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0
@@ -8180,9 +8180,9 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 8178,11/8/22,11/5/22,44,Factory,Sunkist Soda - Orange,140,1.5,1,1.5,1,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0
 8179,11/8/22,11/5/22,44,Factory,Sunkist Soda - Orange,140,1.5,1,1.5,1,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0
 8180,11/9/22,11/5/22,44,Factory,Goldfish Baked - Cheddar,125,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0
-8181,11/9/22,11/5/22,44,Factory,Cheetos - Fleming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
+8181,11/9/22,11/5/22,44,Factory,Cheetos - Flaming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
 8182,11/9/22,11/5/22,44,Factory,Red Bull - Original,148,3.5,1,3.5,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0
-8183,11/9/22,11/5/22,44,Factory,Cheetos - Fleming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0
+8183,11/9/22,11/5/22,44,Factory,Cheetos - Flaming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0
 8184,11/9/22,11/5/22,44,Factory,Coca Cola - Regular,142,1.5,1,1.5,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0
 8185,11/9/22,11/5/22,44,Library,Poland Springs Water,144,1.5,1,1.5,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0
 8186,11/9/22,11/5/22,44,Factory,Goldfish Baked - Cheddar,125,1.5,1,1.5,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0
@@ -8217,11 +8217,11 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 8215,11/9/22,11/5/22,44,Factory,Lays - Classic,114,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
 8216,11/9/22,11/5/22,44,Library,SunChips Multigrain - Harvest Cheddar,110,1.5,1,1.5,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0
 8217,11/9/22,11/5/22,44,Library,SunChips Multigrain - French Onion,114,1.5,1,1.5,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0
-8218,11/9/22,11/5/22,44,Factory,Cheetos - Fleming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
+8218,11/9/22,11/5/22,44,Factory,Cheetos - Flaming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
 8219,11/9/22,11/5/22,44,Factory,Snapple Tea - Raspberry,143,2.5,1,2.5,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0
-8220,11/10/22,11/5/22,44,Factory,Cheetos - Fleming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
+8220,11/10/22,11/5/22,44,Factory,Cheetos - Flaming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
 8221,11/10/22,11/5/22,44,Factory,Monster Energy Original,144,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
-8222,11/10/22,11/5/22,44,Factory,Cheetos - Fleming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
+8222,11/10/22,11/5/22,44,Factory,Cheetos - Flaming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
 8223,11/10/22,11/5/22,44,Factory,Cheetos Flaming Hot Limon Crunchy,112,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
 8224,11/10/22,11/5/22,44,Factory,Nature's Bakery Fig Bar - Raspberry,130,1.5,1,1.5,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0
 8225,11/10/22,11/5/22,44,Factory,Snapple Tea - Raspberry,143,2.5,1,2.5,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0
@@ -8403,7 +8403,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 8401,11/18/22,11/12/22,45,Library,Starbucks Doubleshot Energy - Mocha,146,4,1,4,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1
 8402,11/18/22,11/12/22,45,Library,Snyder's of Hanover Pretzel - Cheddar Cheese,120,2.5,1,2.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1
 8403,11/18/22,11/12/22,45,Office,Fritos - Original,121,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
-8404,11/18/22,11/12/22,45,Factory,Cheetos - Fleming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1
+8404,11/18/22,11/12/22,45,Factory,Cheetos - Flaming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1
 8405,11/18/22,11/12/22,45,Factory,Cheetos Puffs,122,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 8406,11/18/22,11/12/22,45,Library,RXBAR - Protein Bar - Chocolate Sea Salt,139,2,1,2,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1
 8407,11/18/22,11/12/22,45,Library,Spindrift - Sparkling Water  Lime,142,1.5,1,1.5,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1
@@ -8643,7 +8643,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 8641,11/28/22,11/26/22,47,Mall 1,Snapple Diet Tea - Lemon,145,2.5,2,5,1,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0
 8642,11/28/22,11/26/22,47,Mall 1,Coca Cola - Regular,141,2,1,2,1,0,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0
 8643,11/28/22,11/26/22,47,Mall 2,Monster Energy Original,146,3,1,3,1,0,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0
-8644,11/28/22,11/26/22,47,Factory,Cheetos - Fleming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
+8644,11/28/22,11/26/22,47,Factory,Cheetos - Flaming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
 8645,11/28/22,11/26/22,47,Mall 2,Coca Cola - Zero Sugar,140,1.5,1,1.5,1,0,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0
 8646,11/29/22,11/26/22,47,Factory,Sunkist Soda - Orange,140,1.5,1,1.5,1,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0
 8647,11/29/22,11/26/22,47,Factory,Monster Energy Original,146,3,1,3,1,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0
@@ -8666,7 +8666,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 8664,11/29/22,11/26/22,47,Factory,Coca Cola - Regular,141,1.5,1,1.5,1,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0
 8665,11/29/22,11/26/22,47,Factory,CheezIt - White Cheddar,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
 8666,11/30/22,11/26/22,47,Factory,Monster Energy Original,146,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0
-8667,11/30/22,11/26/22,47,Factory,Cheetos - Fleming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
+8667,11/30/22,11/26/22,47,Factory,Cheetos - Flaming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
 8668,11/30/22,11/26/22,47,Factory,Nature's Bakery Fig Bar - Blueberry,131,1.5,1,1.5,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0
 8669,11/30/22,11/26/22,47,Factory,Cheetos Baked - Flaming Hot,110,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0
 8670,11/30/22,11/26/22,47,Office,CheezIt - White Cheddar,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0
@@ -8885,7 +8885,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 8883,12/7/22,12/3/22,48,Library,Nutter Butter Bites,124,1.5,1,1.5,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0
 8884,12/7/22,12/3/22,48,Factory,Snapple Tea - Lemon,145,2.5,1,2.5,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0
 8885,12/7/22,12/3/22,48,Factory,Snapple Tea - Peach,147,2.5,1,2.5,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0
-8886,12/7/22,12/3/22,48,Factory,Cheetos - Fleming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0
+8886,12/7/22,12/3/22,48,Factory,Cheetos - Flaming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0
 8887,12/7/22,12/3/22,48,Factory,Monster Energy Original,146,3,1,3,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0
 8888,12/7/22,12/3/22,48,Factory,Nature's Bakery Fig Bar - Raspberry,130,1.5,1,1.5,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0
 8889,12/8/22,12/3/22,48,Factory,Cheetos Flaming Hot Limon Crunchy,112,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
@@ -8928,7 +8928,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 8926,12/9/22,12/3/22,48,Library,Poland Springs Water,144,1.5,1,1.5,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1
 8927,12/9/22,12/3/22,48,Office,Pop Corners - Sea Salt,110,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 8928,12/9/22,12/3/22,48,Factory,Nature's Bakery Fig Bar - Raspberry,130,1.5,1,1.5,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1
-8929,12/9/22,12/3/22,48,Factory,Cheetos - Fleming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
+8929,12/9/22,12/3/22,48,Factory,Cheetos - Flaming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 8930,12/9/22,12/3/22,48,Office,Keto Bar - Creamy Peanut Butter Chocolate,131,2,1,2,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1
 8931,12/9/22,12/3/22,48,Library,Ritz Bits Cheese,125,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 8932,12/9/22,12/3/22,48,Library,SunChips Multigrain - Original,111,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1
@@ -9024,7 +9024,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 9022,12/14/22,12/10/22,49,Factory,Cheetos Flaming Hot Limon Crunchy,112,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
 9023,12/14/22,12/10/22,49,Factory,Monster Energy Original,146,3,1,3,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0
 9024,12/14/22,12/10/22,49,Factory,Snapple Tea - Lemon,145,2.5,1,2.5,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0
-9025,12/15/22,12/10/22,49,Factory,Cheetos - Fleming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0
+9025,12/15/22,12/10/22,49,Factory,Cheetos - Flaming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0
 9026,12/15/22,12/10/22,49,Office,BodyArmor LYTE  - Peach Mango,147,2.5,1,2.5,1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0
 9027,12/15/22,12/10/22,49,Factory,Red Bull - Original,148,3.5,1,3.5,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0
 9028,12/15/22,12/10/22,49,Factory,Snapple Tea - Lemon,145,2.5,1,2.5,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0
@@ -9046,7 +9046,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 9044,12/15/22,12/10/22,49,Mall 1,SunChips Multigrain - Salsa,110,1.5,1,1.5,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0
 9045,12/15/22,12/10/22,49,Library,Poland Springs Water,144,1.5,1,1.5,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0
 9046,12/15/22,12/10/22,49,Factory,Cheetos Flaming Hot Limon Crunchy,112,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
-9047,12/15/22,12/10/22,49,Factory,Cheetos - Fleming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
+9047,12/15/22,12/10/22,49,Factory,Cheetos - Flaming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
 9048,12/16/22,12/10/22,49,Factory,Nature's Bakery Fig Bar - Blueberry,131,1.5,1,1.5,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1
 9049,12/16/22,12/10/22,49,Factory,Nature's Bakery Fig Bar - Blueberry,131,1.5,1,1.5,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1
 9050,12/16/22,12/10/22,49,Factory,Snapple Tea - Lemon,145,2.5,1,2.5,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1
@@ -9073,7 +9073,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 9071,12/16/22,12/10/22,49,Library,Nutter Butter Bites,124,1.5,1,1.5,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1
 9072,12/16/22,12/10/22,49,Library,Starbucks Refresher - Real Coconut Water,148,3,1,3,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1
 9073,12/16/22,12/10/22,49,Factory,Nature's Bakery Fig Bar - Blueberry,131,1.5,1,1.5,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1
-9074,12/16/22,12/10/22,49,Factory,Cheetos - Fleming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
+9074,12/16/22,12/10/22,49,Factory,Cheetos - Flaming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 9075,12/16/22,12/10/22,49,Factory,Takis FUGEO mini,111,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 9076,12/17/22,12/17/22,50,Mall 2,Monster Energy Original,146,3,1,3,1,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0
 9077,12/17/22,12/17/22,50,Mall 1,Snyder's of Hanover Pretzel Pieces - Hot Buff,123,2,1,2,0,1,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0
@@ -9113,7 +9113,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 9111,12/19/22,12/17/22,50,Factory,Nature's Bakery Fig Bar - Blueberry,131,1.5,1,1.5,0,1,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0
 9112,12/19/22,12/17/22,50,Factory,Cheetos Flaming Hot Limon Crunchy,112,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
 9113,12/19/22,12/17/22,50,Mall 2,SunChips Multigrain - Harvest Cheddar,111,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0
-9114,12/19/22,12/17/22,50,Factory,Cheetos - Fleming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
+9114,12/19/22,12/17/22,50,Factory,Cheetos - Flaming Hot Crunchy,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
 9115,12/20/22,12/17/22,50,Factory,Snapple Tea - Lemon,145,2.5,1,2.5,1,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0
 9116,12/20/22,12/17/22,50,Factory,Cheetos Cheddar Jalapeno,120,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0
 9117,12/20/22,12/17/22,50,Library,CheezIt - Cheddar Sour Cream and Onion,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
@@ -9226,21 +9226,21 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 9224,12/23/22,12/17/22,50,Library,Lenny & Larrys - Chocolate Chip,159,2.5,1,2.5,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1
 9225,12/23/22,12/17/22,50,Mall 2,RXBAR - Protein Bar - Chocolate Sea Salt,133,2,1,2,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1
 9226,12/23/22,12/17/22,50,Factory,Nature's Bakery Fig Bar - Blueberry,131,1.5,1,1.5,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1
-9227,12/23/22,12/17/22,50,Factory,Cheetos - Fleming Hot Crunchy,120,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
+9227,12/23/22,12/17/22,50,Factory,Cheetos - Flaming Hot Crunchy,120,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 9228,12/23/22,12/17/22,50,Factory,Lays - Barbecue,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 9229,12/23/22,12/17/22,50,Factory,Lays - Barbecue,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
-9230,12/23/22,12/17/22,50,Factory,Cheetos - Fleming Hot Crunchy,120,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
-9231,12/23/22,12/17/22,50,Factory,Cheetos - Fleming Hot Crunchy,120,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
+9230,12/23/22,12/17/22,50,Factory,Cheetos - Flaming Hot Crunchy,120,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
+9231,12/23/22,12/17/22,50,Factory,Cheetos - Flaming Hot Crunchy,120,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 9232,12/23/22,12/17/22,50,Mall 1,Bai Antioxidant - Kupang strawberry kiwi,145,2.75,1,2.75,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1
 9233,12/23/22,12/17/22,50,Factory,Cheetos Baked - Crunchy Cheese,110,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1
-9234,12/23/22,12/17/22,50,Factory,Cheetos - Fleming Hot Crunchy,120,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
+9234,12/23/22,12/17/22,50,Factory,Cheetos - Flaming Hot Crunchy,120,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 9235,12/23/22,12/17/22,50,Factory,Lays - Classic,114,1.5,1,1.5,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1
 9236,12/23/22,12/17/22,50,Factory,Snapple Tea - Lemon,145,2.5,1,2.5,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1
 9237,12/23/22,12/17/22,50,Factory,Nature's Bakery Fig Bar - Raspberry,130,1.5,1,1.5,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1
 9238,12/23/22,12/17/22,50,Factory,Lays - Classic,114,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 9239,12/23/22,12/17/22,50,Factory,Cheetos Baked - Crunchy Cheese,110,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1
-9240,12/23/22,12/17/22,50,Factory,Cheetos - Fleming Hot Crunchy,120,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
-9241,12/24/22,12/24/22,51,Factory,Cheetos - Fleming Hot Crunchy,120,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
+9240,12/23/22,12/17/22,50,Factory,Cheetos - Flaming Hot Crunchy,120,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
+9241,12/24/22,12/24/22,51,Factory,Cheetos - Flaming Hot Crunchy,120,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
 9242,12/24/22,12/24/22,51,Factory,Cheetos Baked - Crunchy Cheese,110,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0
 9243,12/24/22,12/24/22,51,Factory,Lays - Barbecue,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
 9244,12/24/22,12/24/22,51,Factory,Lays - Barbecue,113,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
@@ -9293,7 +9293,7 @@ TransNum,Date,WeekStartingSat,WeekNum,Location,Product,Coil,Price,Quantity,Total
 9291,12/27/22,12/24/22,51,Library,Spindrift - Sparkling Water  Lime,142,1.5,1,1.5,1,0,1,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0
 9292,12/28/22,12/24/22,51,Factory,CheezIt - White Cheddar,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
 9293,12/28/22,12/24/22,51,Factory,Takis FUGEO mini,121,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
-9294,12/28/22,12/24/22,51,Factory,Cheetos - Fleming Hot Crunchy,120,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
+9294,12/28/22,12/24/22,51,Factory,Cheetos - Flaming Hot Crunchy,120,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
 9295,12/28/22,12/24/22,51,Factory,Cheetos Baked - Crunchy Cheese,110,1.5,1,1.5,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0
 9296,12/28/22,12/24/22,51,Factory,CheezIt - White Cheddar,123,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
 9297,12/28/22,12/24/22,51,Factory,CheezIt - Double Cheese,124,1.5,1,1.5,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
