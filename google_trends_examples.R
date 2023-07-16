@@ -73,7 +73,7 @@ ggplot(dataset, aes(x = Month)) +
   # Override legend so colors, labels align with plot
   scale_color_identity(name="",
                        breaks=c("gold", "red"),
-                       labels=c("python machine learning", "r machine learning"),
+                       labels=c("Python machine learning", "R machine learning"),
                        guide = "legend")
 
 
