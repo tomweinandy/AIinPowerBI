@@ -1,21 +1,15 @@
-# Install and load the required packages
-# install.packages("xgboost")
-# install.packages("xgboost")
-
 # Load the required packages
 library(xgboost)
 library(readr)
 
-# GitHub CSV URL
+# Load CSV from GitHub
 url <- "https://raw.githubusercontent.com/tomweinandy/AIinPowerBI/main/vending_revenue.csv"
 df <- read.csv(url)
+
+# Clean data
 df <- na.omit(df)
 df <- subset(df, select = -c(WeekStartingSat))
-
-# Convert the target variable to a factor
 df$Location <- as.factor(df$Location)
-df$Total <- as.numeric(df$Total)
-df$Quantity <- as.numeric(df$Quantity)
 
 # Split the data into training and validation sets
 set.seed(24)
@@ -42,35 +36,21 @@ params <- list(
 # Train the model
 model <- xgboost(params, data = dtrain, nrounds = params$nrounds)
 
-# Predict on the test set
-predictions <- predict(model, dtest)
-
-# Convert the predicted probabilities to class labels
-predicted_ints = as.integer(round(predictions))
-location_mapping <- c('Factory', 'Library', 'Mall 1', 'Mall 2', 'Office')
-predicted_classes <- factor(predicted_ints, levels = 1:5, labels = location_mapping)
-
-# Calculate accuracy
-accuracy <- mean(predicted_classes == test_data$Location)
-
-# Print accuracy
-print(paste("Accuracy:", accuracy))
-
-# 
+# Shuffle and encode original dataset
 df_shuffled = df[sample(1:nrow(df)), ]
 df_shuffled_matrix = xgb.DMatrix(data = as.matrix(df_shuffled[, features]), label = df_shuffled$Location)
 
+# Make prediction using trained model
 final_predictions <- predict(model, df_shuffled_matrix)
 
 # Convert the predicted probabilities to class labels
 final_predicted_ints = as.integer(round(final_predictions))
 location_mapping <- c('Factory', 'Library', 'Mall 1', 'Mall 2', 'Office')
 final_predicted_classes <- factor(final_predicted_ints, levels = 1:5, labels = location_mapping)
-df_final = cbind(PredictedLocation = final_predicted_classes, df_shuffled)
 
+# Add to original dataframe
+df_final = cbind(PredictedLocation = final_predicted_classes, df_shuffled)
 
 # Calculate accuracy
 accuracy <- mean(df_final$PredictedLocation == df_final$Location)
-
-# Print accuracy
-print(paste("Accuracy:", accuracy))
+print(paste("In- and out-sample accuracy:", accuracy))
