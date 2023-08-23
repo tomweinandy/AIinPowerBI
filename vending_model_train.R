@@ -1,6 +1,6 @@
-# Load the required packages
-library(xgboost)
+# Load packages
 library(readr)
+library(xgboost)
 
 # Load CSV from GitHub
 url <- "https://raw.githubusercontent.com/tomweinandy/AIinPowerBI/main/vending_revenue.csv"
@@ -48,7 +48,7 @@ final_predicted_ints = as.integer(round(final_predictions))
 location_mapping <- c('Factory', 'Library', 'Mall 1', 'Mall 2', 'Office')
 final_predicted_classes <- factor(final_predicted_ints, levels = 1:5, labels = location_mapping)
 
-# Add to original dataframe
+# Add predicted column to original cleaned dataframe
 df_final = cbind(PredictedLocation = final_predicted_classes, df_shuffled)
 
 # Calculate accuracy
